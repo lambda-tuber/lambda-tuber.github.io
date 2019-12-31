@@ -1,1 +1,7 @@
-# lambda-tuber.github.io
+# リンク
+
+# メモ
+## 2019-12-31
+github pages をつくってみた。
+
+
