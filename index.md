@@ -5,5 +5,4 @@
 github pages をつくってみた。
 
 
-test
 
