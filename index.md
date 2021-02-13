@@ -1,9 +1,16 @@
-# リンク
+# 動画まとめページ
 + [圏論勉強会 Index](https://github.com/lambda-tuber/category-index)
-+ [HaskellでStateパターンやってみた。](https://www.youtube.com/watch?v=KI6EIISTPas&list=PLML1P2WReMnlGjtcx8Mb7rbJa0IjDVTJm)
-
++ [HaskellでStateパターンやってみた。](https://github.com/lambda-tuber/hs-state-pattern)
++ [モナドでAppContext](https://github.com/lambda-tuber/hs-app-context)
 
 # メモ
+## 2021-02-14
+ここ2年ほど、簿記にはまっています。  
+最後のBATIC(国際会計検定)でコントローラとったどぉ！！  
+新BATICもそのうち受けよかな。
+
+---
+
 ## 2020-01-03
 Raspberry PIのver.4がでたので、久しぶりに持っていたver.3でghcにインストールしたら、
 ダメだった。
