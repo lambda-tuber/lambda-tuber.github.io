@@ -1,8 +1,11 @@
 # 動画まとめページ
+##
 + [圏論勉強会 Index](https://github.com/lambda-tuber/category-index)
++ [簿記動画 Index](https://lambda-tuber.github.io/boki)
+
+##
 + [HaskellでStateパターンやってみた。](https://github.com/lambda-tuber/hs-state-pattern)
 + [モナドでAppContext](https://github.com/lambda-tuber/hs-app-context)
-+ [簿記動画 Index](https://lambda-tuber.github.io/boki)
 
 # メモ
 ## 2021-02-14
