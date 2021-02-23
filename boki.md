@@ -14,9 +14,6 @@
 + [07 純資産会計 part2](https://www.youtube.com/watch?v=sxs6lhtywb4)
 + [08 工事契約・売価還元法](https://www.youtube.com/watch?v=cP394tk8Ehk)
   + [工事進行基準](https://www.youtube.com/watch?t=1873&v=cP394tk8Ehk)
- 
-https://youtu.be/cP394tk8Ehk?t=1873
-
 + [09 税効果会計](https://www.youtube.com/watch?v=jpnVTx5_h4Q)
 + [10 損益会計と特殊商品販売](https://www.youtube.com/watch?v=hwPp4PG89HI)
 + [11 有価証券](https://www.youtube.com/watch?v=Rndrj_LsyNU)
@@ -45,15 +42,38 @@ https://youtu.be/cP394tk8Ehk?t=1873
 
 #### 工原編
 + [01 オリエンテーション　意思決定](https://www.youtube.com/watch?v=1YnGZxL8dy8)
+  + [設備投資の意思決定](https://www.youtube.com/watch?v=1YnGZxL8dy8&t=686)
+  + [業務執行的意思決定](https://www.youtube.com/watch?v=1YnGZxL8dy8&t=1159)
+  + [受注可否の意思決定](https://www.youtube.com/watch?v=1YnGZxL8dy8&t=1381)
 + [02 工業簿記の基礎](https://www.youtube.com/watch?v=Q4fbxtNv0to)
+  + 商品と製品、商品仕入高と製造原価。勘定連絡図
+  + 営業利益の計算
 + [03 材料](https://www.youtube.com/watch?v=vKb253f73TU)
 + [04 労務費](https://www.youtube.com/watch?v=3eMqKtUdMps)
 + [05 製造間接費](https://www.youtube.com/watch?v=8msizloha64)
 + [06 部門別計算0](https://www.youtube.com/watch?v=7k0b8kDKLMw)
 + [07 部門別計算1](https://www.youtube.com/watch?v=_gSPQab7gEY)
 + [08 部門別計算2](https://www.youtube.com/watch?v=lqkTYA4bzx4)
-+ [32 <138回>過去問ゼミ工原](https://www.youtube.com/watch?v=2QwhGsmRhRI)
++ [09税効果会計](https://www.youtube.com/watch?v=jpnVTx5_h4Q)
 
++ [15 標準原価計算の基礎](https://www.youtube.com/watch?v=OI3VMA7fJdA)
+  + [原価標準の設定](https://www.youtube.com/watch?v=OI3VMA7fJdA&t=201)
+  + [生産データの突き合わせ](https://www.youtube.com/watch?v=OI3VMA7fJdA&t=580)
+  + [実際原価の計算](https://www.youtube.com/watch?v=OI3VMA7fJdA&t=820)
+  + [差異分析](https://www.youtube.com/watch?v=OI3VMA7fJdA&t=1047)
+    + [混合差異](https://www.youtube.com/watch?v=OI3VMA7fJdA&t=1198)
+  + 記帳方法
+    + [シングルプラン](https://www.youtube.com/watch?v=OI3VMA7fJdA&t=2445)
+    + [パーシャルプラン](https://www.youtube.com/watch?v=OI3VMA7fJdA&t=3043)
+    + [修正パーシャルプラン](https://www.youtube.com/watch?v=OI3VMA7fJdA&t=3178)
+    + [材料受入れ価格差異](https://www.youtube.com/watch?v=OI3VMA7fJdA&t=3552)
+
++ [16 標準原価計算の仕損](https://www.youtube.com/watch?v=s9C4jkXK7eE)
+  + [第一法 度外視法](https://www.youtube.com/watch?v=s9C4jkXK7eE)
+  + [第二法 非度外視法](https://www.youtube.com/watch?v=s9C4jkXK7eE&t=1252)
+
+
++ [32 <138回>過去問ゼミ工原](https://www.youtube.com/watch?v=2QwhGsmRhRI)
 
 ## 資格合格 クレアール
 ### 簿記検定1級 受験対策
@@ -69,7 +89,7 @@ https://youtu.be/cP394tk8Ehk?t=1873
 
 #### 150回
 + [商業簿記](https://www.youtube.com/watch?v=HxTzLcJ01mo)
-+ [会計学 第1問](https://www.youtube.com/watch?v=uzyElJCh5Z4)
++ [会計学 第1問 第3問](https://www.youtube.com/watch?v=uzyElJCh5Z4)
 + [会計学 第2問](https://www.youtube.com/watch?v=XSic6JwXwUQ)
 + [工業簿記](https://www.youtube.com/watch?v=3PwIlJStMdM)
 + [原価計算 第1問](https://www.youtube.com/watch?v=2Z9Z_IVXcYM)
@@ -138,4 +158,22 @@ https://youtu.be/cP394tk8Ehk?t=1873
 + [会計学 第3問](https://www.youtube.com/watch?v=7iycpw3lGdw)
 + [工業簿記](https://www.youtube.com/watch?v=TmZwcxmJq1o)
 + 原価計算(なし)
+
+## ネットスクール
+### 全経簿記上級
+#### 201回
++ [商業簿記 第1問](https://www.youtube.com/watch?v=tKW3Am677Cs)
++ [商業簿記 第2問](https://www.youtube.com/watch?v=-ay-brdxi-Y)
++ 会計学
++ [工業簿記](https://www.youtube.com/watch?v=ykBa8ZMoAv8)
++ [原価計算](https://www.youtube.com/watch?v=l_u0aq6ipZ4)
+
+#### 199回
++ [商業簿記 第1問](https://www.youtube.com/watch?v=zQmc-ic9Fyk)
++ [商業簿記 第2問](https://www.youtube.com/watch?v=A7mlP0TSxFI)
++ [商業簿記 第3問](https://www.youtube.com/watch?v=CVKpD9HFhdY)
++ [会計学 第1問](https://www.youtube.com/watch?v=OjXgQT0gSJs)
++ [会計学 第2問](https://www.youtube.com/watch?v=kqU25o9X1gk)
++ [工業簿記](https://www.youtube.com/watch?v=STHcEs4WqVc)
++ [原価計算](https://www.youtube.com/watch?v=9HBCm5k2fQo)
 
