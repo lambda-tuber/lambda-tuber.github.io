@@ -18,9 +18,15 @@
 + [10 損益会計と特殊商品販売](https://www.youtube.com/watch?v=hwPp4PG89HI)
 + [11 有価証券](https://www.youtube.com/watch?v=Rndrj_LsyNU)
 + [11 有価証券 part2](https://www.youtube.com/watch?v=eL7cjjCTfkI)
-
-
-
++ [12 デリバティブとヘッジ会計]()
++ [12 デリバティブとヘッジ会計 part2]()
++ [13 新株予約権付社債（複合金融商品）](https://www.youtube.com/watch?v=kKzutFbqMZI)
+  + [新株予約権付社債](https://youtu.be/kKzutFbqMZI?t=278)
+  + [転換社債](https://youtu.be/kKzutFbqMZI?t=452)
+  + [区分法、一括法](https://youtu.be/kKzutFbqMZI?t=672)
+  + [例題 一括法](https://youtu.be/kKzutFbqMZI?t=944)
+  + [例題 区分法](https://youtu.be/kKzutFbqMZI?t=1275)
+  + [★131-会2](https://youtu.be/kKzutFbqMZI?t=1791)
 + [26 外貨換算会計](https://www.youtube.com/watch?v=CwOL9dgTpOE)
   + [その他有価証券の為替差損益を分けて考えるケース](https://www.youtube.com/watch?t=2634&v=CwOL9dgTpOE)
 
@@ -33,8 +39,11 @@
   + [吸収合併、取得、自己株式を消去するケース](https://www.youtube.com/watch?t=909&v=GIVhlnUSAk8)
   + [吸収合併、取得、抱合わせ株式があるケース](https://www.youtube.com/watch?t=1183&v=GIVhlnUSAk8)
   + [吸収合併、取得、受入れ仕分け](https://www.youtube.com/watch?t=1578&v=GIVhlnUSAk8)
-  + [交付株式数の決定](https://www.youtube.com/watch?t=1790&v=GIVhlnUSAk8) (連結の相殺仕分けとの違い。)
-  + [株式交換](https://www.youtube.com/watch?t=2875&v=GIVhlnUSAk8)
+  + [交付株式数の決定](https://www.youtube.com/watch?t=1790&v=GIVhlnUSAk8) (企業価値)
+    + [収益還元価値](https://youtu.be/GIVhlnUSAk8?t=2098)
+    + [資本還元率](https://youtu.be/GIVhlnUSAk8?t=2442) 同業者平均利益率、業界平均自己資本利益率
+  + [合併比率の算定](https://youtu.be/GIVhlnUSAk8?t=2664)
+  + [株式交換](https://www.youtube.com/watch?t=2875&v=GIVhlnUSAk8) ★131-会3
   + [株式移転、フォールディングズ](https://www.youtube.com/watch?t=3166&v=GIVhlnUSAk8) (注：簿価で処理)
   + [事業分離 逆取得 子会社になるケース](https://www.youtube.com/watch?t=3713&v=GIVhlnUSAk8) (注：簿価で処理)
   + [事業分離 子会社にならないケース](https://www.youtube.com/watch?t=4078&v=GIVhlnUSAk8)
@@ -187,9 +196,5 @@
 + [会計学 第1問](https://www.youtube.com/watch?v=OjXgQT0gSJs)
 + [会計学 第2問](https://www.youtube.com/watch?v=kqU25o9X1gk)
 + [工業簿記](https://www.youtube.com/watch?v=STHcEs4WqVc)
-+ [原価計算](https://www.youtube.com/watch?v=9HBCm5k2fQo)
-
-
-## 建設業経理士
 + [原価計算](https://www.youtube.com/watch?v=9HBCm5k2fQo)
 
