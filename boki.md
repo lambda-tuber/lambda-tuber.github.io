@@ -30,8 +30,7 @@
 + [26 外貨換算会計](https://www.youtube.com/watch?v=CwOL9dgTpOE)
   + [その他有価証券の為替差損益を分けて考えるケース](https://www.youtube.com/watch?t=2634&v=CwOL9dgTpOE)
 
-+ [22 連結会計1](https://www.youtube.com/watch?v=sOgdMR5N1yo)
-
++ [22 連結会計1](https://www.youtube.com/watch?v=sOgdMR5N1yo) ★131-商業
 
 + [企業結合・事業分離(合併・分割会計）](https://www.youtube.com/watch?v=GIVhlnUSAk8)
   + [パーチェス法と持分プーリング法](https://www.youtube.com/watch?t=355&v=GIVhlnUSAk8)
@@ -47,6 +46,8 @@
   + [株式移転、フォールディングズ](https://www.youtube.com/watch?t=3166&v=GIVhlnUSAk8) (注：簿価で処理)
   + [事業分離 逆取得 子会社になるケース](https://www.youtube.com/watch?t=3713&v=GIVhlnUSAk8) (注：簿価で処理)
   + [事業分離 子会社にならないケース](https://www.youtube.com/watch?t=4078&v=GIVhlnUSAk8)
+
+
 
 
 #### 工原編
@@ -80,6 +81,7 @@
   + [完成品負担、度外視法、非度外視法](https://youtu.be/PcLV760i5vQ?t=1273)
   + [両者負担、度外視法、非度外視法](https://youtu.be/PcLV760i5vQ?t=1905) 
 + [11 総合原価計算の仕損 2](https://www.youtube.com/watch?v=GSLgpy9yue4)
+  + [平均的発生](https://youtu.be/GSLgpy9yue4?t=2201)
 + [12 工程別](https://www.youtube.com/watch?v=VqYfnI1tgiA)
 + [13 組別・等級別](https://www.youtube.com/watch?v=pn1R_VAJgIA)
 + [14 副産物と連産品](https://www.youtube.com/watch?v=bchj12GgkpY)
@@ -99,6 +101,28 @@
   + [第一法 度外視法](https://www.youtube.com/watch?v=s9C4jkXK7eE)
   + [第二法 非度外視法](https://www.youtube.com/watch?v=s9C4jkXK7eE&t=1252)
 + [16 標準原価計算の仕損 2](https://www.youtube.com/watch?v=7qQAZPy8kEA)
++ [17 配合差異と歩留差異](https://www.youtube.com/watch?v=wJHpxFnWDVg)
++ [17 配合差異と歩留差異 2](https://www.youtube.com/watch?v=ku2B4Zv4ld4)
++ [18 直接原価計算](https://www.youtube.com/watch?v=0OT0B2fqLMw)
++ [18 直接原価計算 2](https://www.youtube.com/watch?v=lFcczbtwkxs)
++ [19 ＣＶＰ分析と原価予測](https://www.youtube.com/watch?v=Lf7P21bSPjc)
++ [19 ＣＶＰ分析と原価予測 2](https://www.youtube.com/watch?v=R-AO0jvGj9U)
++ [20 予算実績差異分析](https://www.youtube.com/watch?v=EqNAXA8wbbA)
++ [20 予算実績差異分析 2](https://www.youtube.com/watch?v=S_T5ZK9vPSc)
++ [21 業務的意思決定](https://www.youtube.com/watch?v=Gxl7KQCCARo)
++ [21 業務的意思決定 2](https://www.youtube.com/watch?v=yYpvWlfYy-o)
++ [22 構造的意思決定](https://www.youtube.com/watch?v=aODVG_A36_s)
++ [22 構造的意思決定 part2](https://www.youtube.com/watch?v=9ZUw2pWBBQI)
++ [23 構造的意思決定２](https://www.youtube.com/watch?v=CC3O4QUFigs)
++ [24 活動基準原価計算](https://www.youtube.com/watch?v=b3Y4SEwtdFs)
++ [24 活動基準原価計算 part2](https://www.youtube.com/watch?v=1QRkRC-iyxM)
++ [25 ライフサイクルコスティング](https://www.youtube.com/watch?v=O1Sx5wIOLaw)
++ [26 品質原価計算・原価企画、原価維持、原価改善](https://www.youtube.com/watch?v=Gx4Pw39M8zk)
++ [27 標準の期末](https://www.youtube.com/watch?v=Gx4Pw39M8zk)
++ [28 補講（最適セールスミックス）](https://www.youtube.com/watch?v=qrRbJ8NAYAc)
++ [29 事業部の業績評価](https://www.youtube.com/watch?v=W7JTU5Mu3ms)
++ [30 本社工場](https://www.youtube.com/watch?v=NXVJa5hsyGA)
++ [31 <138回>の解説を見る前に（包括利益計算書の解説）](https://www.youtube.com/watch?v=lYTi0rBcFqc)
 + [32 <138回>過去問ゼミ工原](https://www.youtube.com/watch?v=2QwhGsmRhRI)
 
 ## 資格合格 クレアール
