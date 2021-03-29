@@ -1,5 +1,8 @@
 # 簿記動画 Index
 
+## 動画がない論点
++ [金銭債権譲渡](https://pro-boki.com/recourse) ★132-商 ★141-商
+
 ## CMC関連
 ### 無料で学べる 日商簿記1級＆全経簿記上級
 #### 商会編
@@ -30,7 +33,7 @@
 + [26 外貨換算会計](https://www.youtube.com/watch?v=CwOL9dgTpOE)
   + [その他有価証券の為替差損益を分けて考えるケース](https://www.youtube.com/watch?t=2634&v=CwOL9dgTpOE)
 
-+ [22 連結会計1](https://www.youtube.com/watch?v=sOgdMR5N1yo) ★131-商業
++ [22 連結会計1](https://www.youtube.com/watch?v=sOgdMR5N1yo) ★131-商
 
 + [企業結合・事業分離(合併・分割会計）](https://www.youtube.com/watch?v=GIVhlnUSAk8)
   + [パーチェス法と持分プーリング法](https://www.youtube.com/watch?t=355&v=GIVhlnUSAk8)
@@ -82,8 +85,19 @@
   + [両者負担、度外視法、非度外視法](https://youtu.be/PcLV760i5vQ?t=1905) 
 + [11 総合原価計算の仕損 2](https://www.youtube.com/watch?v=GSLgpy9yue4)
   + [平均的発生](https://youtu.be/GSLgpy9yue4?t=2201)
-+ [12 工程別](https://www.youtube.com/watch?v=VqYfnI1tgiA)
++ [12 工程別](https://www.youtube.com/watch?v=7kMMf5qtUmU)
+  + [全経167](https://youtu.be/7kMMf5qtUmU?t=375)
++ [12 工程別 part2](https://www.youtube.com/watch?v=VqYfnI1tgiA)
+  + [累加法](https://youtu.be/VqYfnI1tgiA?t=232)
+  + [非累加法](https://youtu.be/VqYfnI1tgiA?t=366) 累加法と一致
+  + [非累加法](https://youtu.be/VqYfnI1tgiA?t=1170) 累加法と不致
 + [13 組別・等級別](https://www.youtube.com/watch?v=pn1R_VAJgIA)
+  + [組別](https://youtu.be/pn1R_VAJgIA?t=166)
+  + [等級別は組別の簡便法](https://youtu.be/pn1R_VAJgIA?t=1032)
+  + [等級別 より単純総合原価計算に近い方法](https://youtu.be/pn1R_VAJgIA?t=1232) 2級範囲
+  + [等級別 単純総合原価計算に近い方法](https://youtu.be/pn1R_VAJgIA?t=1385)
+  + [等級別 組別総合原価計算に近い方法](https://youtu.be/pn1R_VAJgIA?t=2283)
+  + [全経165](https://youtu.be/pn1R_VAJgIA?t=2949)
 + [14 副産物と連産品](https://www.youtube.com/watch?v=bchj12GgkpY)
 + [14 副産物と連産品 2](https://www.youtube.com/watch?v=B7C62-zupFc)
 + [15 標準原価計算の基礎](https://www.youtube.com/watch?v=OI3VMA7fJdA)
@@ -109,6 +123,7 @@
 + [19 ＣＶＰ分析と原価予測 2](https://www.youtube.com/watch?v=R-AO0jvGj9U)
 + [20 予算実績差異分析](https://www.youtube.com/watch?v=EqNAXA8wbbA)
 + [20 予算実績差異分析 2](https://www.youtube.com/watch?v=S_T5ZK9vPSc)
++ [20 予算実績差異分析 日商簿記1級無料ミニテスト](https://www.youtube.com/watch?v=GM0q0pYadME) ★131-原
 + [21 業務的意思決定](https://www.youtube.com/watch?v=Gxl7KQCCARo)
 + [21 業務的意思決定 2](https://www.youtube.com/watch?v=yYpvWlfYy-o)
 + [22 構造的意思決定](https://www.youtube.com/watch?v=aODVG_A36_s)
@@ -214,7 +229,7 @@
 #### 201回
 + [商業簿記 第1問](https://www.youtube.com/watch?v=tKW3Am677Cs)
 + [商業簿記 第2問](https://www.youtube.com/watch?v=-ay-brdxi-Y)
-+ 会計学
++ [会計学](https://www.youtube.com/watch?v=iuS06uGeqxE)
 + [工業簿記](https://www.youtube.com/watch?v=ykBa8ZMoAv8)
 + [原価計算](https://www.youtube.com/watch?v=l_u0aq6ipZ4)
 
