@@ -90,7 +90,7 @@
 + [12 工程別 part2](https://www.youtube.com/watch?v=VqYfnI1tgiA)
   + [累加法](https://youtu.be/VqYfnI1tgiA?t=232)
   + [非累加法](https://youtu.be/VqYfnI1tgiA?t=366) 累加法と一致
-  + [非累加法](https://youtu.be/VqYfnI1tgiA?t=1170) 累加法と不致
+  + [非累加法](https://youtu.be/VqYfnI1tgiA?t=1170) 累加法と不一致
 + [13 組別・等級別](https://www.youtube.com/watch?v=pn1R_VAJgIA)
   + [組別](https://youtu.be/pn1R_VAJgIA?t=166)
   + [等級別は組別の簡便法](https://youtu.be/pn1R_VAJgIA?t=1032)
@@ -99,7 +99,14 @@
   + [等級別 組別総合原価計算に近い方法](https://youtu.be/pn1R_VAJgIA?t=2283)
   + [全経165](https://youtu.be/pn1R_VAJgIA?t=2949)
 + [14 副産物と連産品](https://www.youtube.com/watch?v=bchj12GgkpY)
-+ [14 副産物と連産品 2](https://www.youtube.com/watch?v=B7C62-zupFc)
+  + [連産品](https://youtu.be/bchj12GgkpY?t=199)
+  + [連産品 数量基準](https://youtu.be/bchj12GgkpY?t=609)
+  + [連産品 市価基準](https://youtu.be/bchj12GgkpY?t=884)
+  + [連産品 修正見積正味実現価格法](https://youtu.be/bchj12GgkpY?t=1284) 利益率から原価を逆算
+  + [副産物](https://youtu.be/bchj12GgkpY?t=1479) 評価額がある仕損と同じ。
++ 14 副産物と連産品 2
+  + [全経165](https://www.youtube.com/watch?v=B7C62-zupFc)
+  + [日商126原](https://youtu.be/B7C62-zupFc?t=1093)
 + [15 標準原価計算の基礎](https://www.youtube.com/watch?v=OI3VMA7fJdA)
   + [原価標準の設定](https://www.youtube.com/watch?v=OI3VMA7fJdA&t=201)
   + [生産データの突き合わせ](https://www.youtube.com/watch?v=OI3VMA7fJdA&t=580)
