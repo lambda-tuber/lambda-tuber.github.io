@@ -1,7 +1,7 @@
 # 簿記動画 Index
 
 ## 動画がない論点
-+ [金銭債権譲渡](https://pro-boki.com/recourse) ★132-商 ★141-商
++ [プロ簿記：金銭債権譲渡](https://pro-boki.com/recourse) ★132-商 ★141-商
 
 ## CMC関連
 ### 無料で学べる 日商簿記1級＆全経簿記上級
@@ -121,11 +121,13 @@
 + [16 標準原価計算の仕損](https://www.youtube.com/watch?v=s9C4jkXK7eE)
   + [第一法 度外視法](https://www.youtube.com/watch?v=s9C4jkXK7eE)
   + [第二法 非度外視法](https://www.youtube.com/watch?v=s9C4jkXK7eE&t=1252)
-+ [16 標準原価計算の仕損 2](https://www.youtube.com/watch?v=7qQAZPy8kEA)
++ [16 標準原価計算の仕損 2](https://www.youtube.com/watch?v=7qQAZPy8kEA) 全経161工
 + [17 配合差異と歩留差異](https://www.youtube.com/watch?v=wJHpxFnWDVg)
-+ [17 配合差異と歩留差異 2](https://www.youtube.com/watch?v=ku2B4Zv4ld4)
+  + [平均単価、価格面を重視した配合差異](https://youtu.be/wJHpxFnWDVg?t=2036)
+  + [能率差異と歩留差異](https://youtu.be/wJHpxFnWDVg?t=2504)
++ [17 配合差異と歩留差異 2](https://www.youtube.com/watch?v=ku2B4Zv4ld4) 日商132工
 + [18 直接原価計算](https://www.youtube.com/watch?v=0OT0B2fqLMw)
-+ [18 直接原価計算 2](https://www.youtube.com/watch?v=lFcczbtwkxs)
++ [18 直接原価計算 2](https://www.youtube.com/watch?v=lFcczbtwkxs) 日商126工
 + [19 ＣＶＰ分析と原価予測](https://www.youtube.com/watch?v=Lf7P21bSPjc)
 + [19 ＣＶＰ分析と原価予測 2](https://www.youtube.com/watch?v=R-AO0jvGj9U)
 + [20 予算実績差異分析](https://www.youtube.com/watch?v=EqNAXA8wbbA)
