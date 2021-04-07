@@ -30,11 +30,16 @@
   + [例題 一括法](https://youtu.be/kKzutFbqMZI?t=944)
   + [例題 区分法](https://youtu.be/kKzutFbqMZI?t=1275)
   + [★131-会2](https://youtu.be/kKzutFbqMZI?t=1791)
-+ [26 外貨換算会計](https://www.youtube.com/watch?v=CwOL9dgTpOE)
++ [21 外貨換算会計](https://www.youtube.com/watch?v=CwOL9dgTpOE)
   + [その他有価証券の為替差損益を分けて考えるケース](https://www.youtube.com/watch?t=2634&v=CwOL9dgTpOE)
-
 + [22 連結会計1](https://www.youtube.com/watch?v=sOgdMR5N1yo) ★131-商
-
++ [23 連結会計2](https://www.youtube.com/watch?v=tVkblRVFavw)
++ [24 連結会計3](https://www.youtube.com/watch?v=myZQBAjb8uo)
++ [25 連結会計4](https://www.youtube.com/watch?v=Vwec1v593Uc)
++ [26 連結会計5](https://www.youtube.com/watch?v=--bWI64hVms)
++ [27 包括利益](https://www.youtube.com/watch?v=x24Xc6DNXFE)
++ [28 SPC](https://www.youtube.com/watch?v=rVPPLs2E6GQ)
++ [29 持分法](https://www.youtube.com/watch?v=NJ1PfnYMNrU)
 + [企業結合・事業分離(合併・分割会計）](https://www.youtube.com/watch?v=GIVhlnUSAk8)
   + [パーチェス法と持分プーリング法](https://www.youtube.com/watch?t=355&v=GIVhlnUSAk8)
   + [吸収合併、取得、存続会社はA社のみのケース](https://www.youtube.com/watch?t=503&v=GIVhlnUSAk8)
