@@ -5,6 +5,7 @@
 
 ## CMC関連
 ### 無料で学べる 日商簿記1級＆全経簿記上級
+
 #### 商会編
 + [00 オリエンテーション 税効果会計・利息法](https://www.youtube.com/watch?v=SomsksJPJuQ)
 + [01 会計公準と会計原則](https://www.youtube.com/watch?v=ENKE8jL7gr4)
@@ -21,8 +22,8 @@
 + [10 損益会計と特殊商品販売](https://www.youtube.com/watch?v=hwPp4PG89HI)
 + [11 有価証券](https://www.youtube.com/watch?v=Rndrj_LsyNU)
 + [11 有価証券 part2](https://www.youtube.com/watch?v=eL7cjjCTfkI)
-+ [12 デリバティブとヘッジ会計]()
-+ [12 デリバティブとヘッジ会計 part2]()
++ [12 デリバティブとヘッジ会計](https://www.youtube.com/watch?v=iGywnULhGM4)
++ [12 デリバティブとヘッジ会計 part2](https://www.youtube.com/watch?v=iGywnULhGM4)
 + [13 新株予約権付社債（複合金融商品）](https://www.youtube.com/watch?v=kKzutFbqMZI)
   + [新株予約権付社債](https://youtu.be/kKzutFbqMZI?t=278)
   + [転換社債](https://youtu.be/kKzutFbqMZI?t=452)
@@ -30,6 +31,17 @@
   + [例題 一括法](https://youtu.be/kKzutFbqMZI?t=944)
   + [例題 区分法](https://youtu.be/kKzutFbqMZI?t=1275)
   + [★131-会2](https://youtu.be/kKzutFbqMZI?t=1791)
++ [14 貸倒引当金]()
++ [15 退職給付会計]()
++ [15 退職給付会計 part2]()
++ [16 リース会計]()
++ [16 リース会計 part2]()
++ [17 減損会計]()
++ [17 減損会計 part2]()
++ [18 本支店会計]()
++ [19 財務諸表]()
++ [19 財務諸表 part2]()
++ [20 会計上の変更および誤謬の訂正]()
 + [21 外貨換算会計](https://www.youtube.com/watch?v=CwOL9dgTpOE)
   + [その他有価証券の為替差損益を分けて考えるケース](https://www.youtube.com/watch?t=2634&v=CwOL9dgTpOE)
 + [22 連結会計1](https://www.youtube.com/watch?v=sOgdMR5N1yo) ★131-商
@@ -54,8 +66,6 @@
   + [株式移転、フォールディングズ](https://www.youtube.com/watch?t=3166&v=GIVhlnUSAk8) (注：簿価で処理)
   + [事業分離 逆取得 子会社になるケース](https://www.youtube.com/watch?t=3713&v=GIVhlnUSAk8) (注：簿価で処理)
   + [事業分離 子会社にならないケース](https://www.youtube.com/watch?t=4078&v=GIVhlnUSAk8)
-
-
 
 
 #### 工原編
@@ -132,9 +142,14 @@
   + [能率差異と歩留差異](https://youtu.be/wJHpxFnWDVg?t=2504)
 + [17 配合差異と歩留差異 2](https://www.youtube.com/watch?v=ku2B4Zv4ld4) 日商132工
 + [18 直接原価計算](https://www.youtube.com/watch?v=0OT0B2fqLMw)
+  + [総合と直接の固定費調整](https://youtu.be/0OT0B2fqLMw?t=1047)
 + [18 直接原価計算 2](https://www.youtube.com/watch?v=lFcczbtwkxs) 日商126工
 + [19 ＣＶＰ分析と原価予測](https://www.youtube.com/watch?v=Lf7P21bSPjc)
+  + [個変分解 高低2点法](https://youtu.be/Lf7P21bSPjc?t=1175)
+  + [個変分解 最小二乗法](https://youtu.be/Lf7P21bSPjc?t=1605)
+  + [経営レバレッジ](https://youtu.be/Lf7P21bSPjc?t=2669)
 + [19 ＣＶＰ分析と原価予測 2](https://www.youtube.com/watch?v=R-AO0jvGj9U)
+  + [★全経170工2](https://youtu.be/R-AO0jvGj9U?t=1339)
 + [20 予算実績差異分析](https://www.youtube.com/watch?v=EqNAXA8wbbA)
 + [20 予算実績差異分析 2](https://www.youtube.com/watch?v=S_T5ZK9vPSc)
 + [20 予算実績差異分析 日商簿記1級無料ミニテスト](https://www.youtube.com/watch?v=GM0q0pYadME) ★131-原
@@ -153,6 +168,7 @@
 + [30 本社工場](https://www.youtube.com/watch?v=NXVJa5hsyGA)
 + [31 <138回>の解説を見る前に（包括利益計算書の解説）](https://www.youtube.com/watch?v=lYTi0rBcFqc)
 + [32 <138回>過去問ゼミ工原](https://www.youtube.com/watch?v=2QwhGsmRhRI)
+
 
 ## 資格合格 クレアール
 ### 簿記検定1級 受験対策
@@ -240,6 +256,7 @@
 
 ## ネットスクール
 ### 全経簿記上級
+
 #### 201回
 + [商業簿記 第1問](https://www.youtube.com/watch?v=tKW3Am677Cs)
 + [商業簿記 第2問](https://www.youtube.com/watch?v=-ay-brdxi-Y)
