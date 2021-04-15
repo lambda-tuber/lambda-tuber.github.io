@@ -2,6 +2,7 @@
 
 ## 動画がない論点
 + [プロ簿記：金銭債権譲渡](https://pro-boki.com/recourse) ★132-商 ★141-商
++ [リース貸手の3つの記帳方式](https://kaikegaku.net/lease/itengaiflkashite.html) ★135会 ★全経xxx
 
 ## CMC関連
 ### 無料で学べる 日商簿記1級＆全経簿記上級
@@ -151,7 +152,12 @@
 + [19 ＣＶＰ分析と原価予測 2](https://www.youtube.com/watch?v=R-AO0jvGj9U)
   + [★全経170工2](https://youtu.be/R-AO0jvGj9U?t=1339)
 + [20 予算実績差異分析](https://www.youtube.com/watch?v=EqNAXA8wbbA)
+  + [純額分析、要因分析](https://youtu.be/EqNAXA8wbbA?t=1104)
+  + [差異分析の差異分析](https://youtu.be/EqNAXA8wbbA?t=1735) 市場占拠率
 + [20 予算実績差異分析 2](https://www.youtube.com/watch?v=S_T5ZK9vPSc)
+  + [セールミックス差異](https://www.youtube.com/watch?v=S_T5ZK9vPSc)
+  + [セールスミックス＆市場占拠率差異](https://youtu.be/S_T5ZK9vPSc?t=1062)
+  + [★全経165原](https://youtu.be/S_T5ZK9vPSc?t=1808)
 + [20 予算実績差異分析 日商簿記1級無料ミニテスト](https://www.youtube.com/watch?v=GM0q0pYadME) ★131-原
 + [21 業務的意思決定](https://www.youtube.com/watch?v=Gxl7KQCCARo)
 + [21 業務的意思決定 2](https://www.youtube.com/watch?v=yYpvWlfYy-o)
