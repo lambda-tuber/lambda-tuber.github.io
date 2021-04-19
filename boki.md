@@ -64,7 +64,7 @@
     + [資本還元率](https://youtu.be/GIVhlnUSAk8?t=2442) 同業者平均利益率、業界平均自己資本利益率
   + [合併比率の算定](https://youtu.be/GIVhlnUSAk8?t=2664)
   + [株式交換](https://www.youtube.com/watch?t=2875&v=GIVhlnUSAk8) ★131-会3
-  + [株式移転、フォールディングズ](https://www.youtube.com/watch?t=3166&v=GIVhlnUSAk8) (注：簿価で処理)
+  + [株式移転、フォールディングズ](https://www.youtube.com/watch?t=3166&v=GIVhlnUSAk8) (注：簿価で処理) ★日商137会
   + [事業分離 逆取得 子会社になるケース](https://www.youtube.com/watch?t=3713&v=GIVhlnUSAk8) (注：簿価で処理)
   + [事業分離 子会社にならないケース](https://www.youtube.com/watch?t=4078&v=GIVhlnUSAk8)
 
@@ -180,14 +180,26 @@
   + [ABCでは](https://youtu.be/b3Y4SEwtdFs?t=622)
   + [108回類題](https://youtu.be/b3Y4SEwtdFs?t=921)
 + [24 活動基準原価計算 part2](https://www.youtube.com/watch?v=1QRkRC-iyxM) ★日商128回原
-+ [25 ライフサイクルコスティング](https://www.youtube.com/watch?v=O1Sx5wIOLaw) 24の続き
-+ [26 品質原価計算・原価企画、原価維持、原価改善](https://www.youtube.com/watch?v=Gx4Pw39M8zk)
-+ [27 標準の期末](https://www.youtube.com/watch?v=Gx4Pw39M8zk)
-+ [28 補講（最適セールスミックス）](https://www.youtube.com/watch?v=qrRbJ8NAYAc)
-+ [29 事業部の業績評価](https://www.youtube.com/watch?v=W7JTU5Mu3ms)
-+ [30 本社工場](https://www.youtube.com/watch?v=NXVJa5hsyGA)
-+ [31 <138回>の解説を見る前に（包括利益計算書の解説）](https://www.youtube.com/watch?v=lYTi0rBcFqc)
-+ [32 <138回>過去問ゼミ工原](https://www.youtube.com/watch?v=2QwhGsmRhRI)
++ [25 ライフサイクルコスティング](https://www.youtube.com/watch?v=O1Sx5wIOLaw) 24の続き、買い手側の話。取得コスト、運用コスト、廃棄コスト。
++ [26 最終回 品質原価計算・原価企画、原価維持、原価改善](https://www.youtube.com/watch?v=Gx4Pw39M8zk)
+  + [原価企画](https://youtu.be/Gx4Pw39M8zk?t=240)
+  + [販売価格基準法 許容原価](https://youtu.be/Gx4Pw39M8zk?t=715)
+  + [成り行き原価](https://youtu.be/Gx4Pw39M8zk?t=758)
+  + [全経類題](https://youtu.be/Gx4Pw39M8zk?t=843)
+  + [品質原価計算](https://youtu.be/Gx4Pw39M8zk?t=961)
+    + 品質適合コスト -> 予防コスト、評価コスト
+    + 品質不適合コスト -> 内部／外部失敗コスト
+  + [全経類題](https://youtu.be/Gx4Pw39M8zk?t=1505)
++ [27 補講 標準の期末](https://www.youtube.com/watch?v=Gx4Pw39M8zk)
++ [28 補講 最適セールスミックス](https://www.youtube.com/watch?v=qrRbJ8NAYAc)
++ [29 補講 事業部の業績評価 ROI,RI](https://www.youtube.com/watch?v=W7JTU5Mu3ms)
+  + [事業部制](https://youtu.be/W7JTU5Mu3ms?t=192)
+  + [ROI, RI 残余利益](https://youtu.be/W7JTU5Mu3ms?t=525)
+  + [★全経162](https://youtu.be/W7JTU5Mu3ms?t=730)
+  + [経営レバレッジ](https://youtu.be/W7JTU5Mu3ms?t=1433) 安全余裕率の逆数
++ [30 補講 本社工場](https://www.youtube.com/watch?v=NXVJa5hsyGA)
++ [31 過去問ゼミ工原 <138回>の解説を見る前に（包括利益計算書の解説）](https://www.youtube.com/watch?v=lYTi0rBcFqc)
++ [32 過去問ゼミ工原 <138回>](https://www.youtube.com/watch?v=2QwhGsmRhRI)
 
 
 ## 資格合格 クレアール
