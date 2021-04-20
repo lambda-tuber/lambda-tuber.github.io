@@ -39,12 +39,25 @@
 + [16 リース会計 part2]()
 + [17 減損会計]()
 + [17 減損会計 part2]()
-+ [18 本支店会計]()
++ [18 本支店会計](https://www.youtube.com/watch?v=z_L1OLTKP6M)
+  + [直送処理](https://youtu.be/z_L1OLTKP6M?t=821)
+  + [簿記一巡](https://youtu.be/z_L1OLTKP6M?t=1132)
+  + [★全経168](https://youtu.be/z_L1OLTKP6M?t=1842)
+    + 未達事項の反映 → 内部利益控除 → 合併整理 →
+      + [原価法](https://youtu.be/z_L1OLTKP6M?t=2085) 内部利益を載せないケース。売上にせず、仕入勘定で処理。
+      + [決算整理後T/B](https://youtu.be/z_L1OLTKP6M?t=2795) 仕入勘定は売上原価を表す。
+  + [例題 帳簿上の処理](https://youtu.be/z_L1OLTKP6M?t=3235)
+    + [未達処理](https://youtu.be/z_L1OLTKP6M?t=3318)
+    + [決算整理](https://youtu.be/z_L1OLTKP6M?t=3418)
+    + [損益勘定](https://youtu.be/z_L1OLTKP6M?t=3786) 支店損益、本店損益 → 総合損益にまとめて内部利益控除 → 税金処理 → 繰越利益剰余金へ。
+  + [2級 本支店会計](https://www.youtube.com/watch?v=GGM7ExCjXEg)
+  + [2級 本支店会計2](https://www.youtube.com/watch?v=q3iAMGFyO8A)
+  + [全経1級 本支店会計](https://www.youtube.com/watch?v=46frgjuHLcs)
++ [21 外貨換算会計](https://www.youtube.com/watch?v=CwOL9dgTpOE)
+  + [その他有価証券の為替差損益を分けて考えるケース](https://www.youtube.com/watch?t=2634&v=CwOL9dgTpOE)
 + [19 財務諸表]()
 + [19 財務諸表 part2]()
 + [20 会計上の変更および誤謬の訂正]()
-+ [21 外貨換算会計](https://www.youtube.com/watch?v=CwOL9dgTpOE)
-  + [その他有価証券の為替差損益を分けて考えるケース](https://www.youtube.com/watch?t=2634&v=CwOL9dgTpOE)
 + [22 連結会計1](https://www.youtube.com/watch?v=sOgdMR5N1yo) ★131-商
 + [23 連結会計2](https://www.youtube.com/watch?v=tVkblRVFavw)
 + [24 連結会計3](https://www.youtube.com/watch?v=myZQBAjb8uo)
@@ -138,6 +151,7 @@
   + [第一法 度外視法](https://www.youtube.com/watch?v=s9C4jkXK7eE)
   + [第二法 非度外視法](https://www.youtube.com/watch?v=s9C4jkXK7eE&t=1252)
 + [16 標準原価計算の仕損 2](https://www.youtube.com/watch?v=7qQAZPy8kEA) 全経161工
++ [27 補講 標準の期末](https://www.youtube.com/watch?v=dAS2UTWmhU8)
 + [17 配合差異と歩留差異](https://www.youtube.com/watch?v=wJHpxFnWDVg)
   + [平均単価、価格面を重視した配合差異](https://youtu.be/wJHpxFnWDVg?t=2036)
   + [能率差異と歩留差異](https://youtu.be/wJHpxFnWDVg?t=2504)
@@ -158,6 +172,7 @@
   + [セールミックス差異](https://www.youtube.com/watch?v=S_T5ZK9vPSc)
   + [セールスミックス＆市場占拠率差異](https://youtu.be/S_T5ZK9vPSc?t=1062)
   + [★全経165原](https://youtu.be/S_T5ZK9vPSc?t=1808)
++ [28 補講 最適セールスミックス](https://www.youtube.com/watch?v=qrRbJ8NAYAc)
 + [20 予算実績差異分析 日商簿記1級無料ミニテスト](https://www.youtube.com/watch?v=GM0q0pYadME) ★131-原
 + [21 業務的意思決定](https://www.youtube.com/watch?v=Gxl7KQCCARo) 差額原価、埋没原価、機会原価、・・・
   + [★日商132原](https://youtu.be/Gxl7KQCCARo?t=899) 在庫を抱えていた件。
@@ -190,8 +205,6 @@
     + 品質適合コスト -> 予防コスト、評価コスト
     + 品質不適合コスト -> 内部／外部失敗コスト
   + [全経類題](https://youtu.be/Gx4Pw39M8zk?t=1505)
-+ [27 補講 標準の期末](https://www.youtube.com/watch?v=Gx4Pw39M8zk)
-+ [28 補講 最適セールスミックス](https://www.youtube.com/watch?v=qrRbJ8NAYAc)
 + [29 補講 事業部の業績評価 ROI,RI](https://www.youtube.com/watch?v=W7JTU5Mu3ms)
   + [事業部制](https://youtu.be/W7JTU5Mu3ms?t=192)
   + [ROI, RI 残余利益](https://youtu.be/W7JTU5Mu3ms?t=525)
