@@ -11,6 +11,12 @@
 + [00 オリエンテーション 税効果会計・利息法](https://www.youtube.com/watch?v=SomsksJPJuQ)
 + [01 会計公準と会計原則](https://www.youtube.com/watch?v=ENKE8jL7gr4)
 + [02 棚卸資産と商品販売](https://www.youtube.com/watch?v=ln4UNhFom_8)
+  + [原価率、利益率、負荷率](https://youtu.be/ln4UNhFom_8?t=797)
+  + [値引き、割戻し、返品](https://youtu.be/ln4UNhFom_8?t=1033) 売上では値引き／割戻しを控除しない。
+  + [part2 資産総論](https://youtu.be/ln4UNhFom_8?t=2447)
+    + [正常営業循環基準](https://youtu.be/ln4UNhFom_8?t=3686)
+    + [費用配分の原則、費用収益対応の原則](https://youtu.be/ln4UNhFom_8?t=4031)
+    + [金融投資と事業投資](https://youtu.be/ln4UNhFom_8?t=4564)
 + [03 割賦販売](https://www.youtube.com/watch?v=EDyIxditchss)
 + [04 有形固定資産](https://www.youtube.com/watch?v=zb7OSIjLVz8)
 + [05 無形固定資産・繰延資産・社債](https://www.youtube.com/watch?v=t2g0itED34Q)
@@ -54,7 +60,11 @@
   + [2級 本支店会計2](https://www.youtube.com/watch?v=q3iAMGFyO8A)
   + [全経1級 本支店会計](https://www.youtube.com/watch?v=46frgjuHLcs)
 + [21 外貨換算会計](https://www.youtube.com/watch?v=CwOL9dgTpOE)
-  + [その他有価証券の為替差損益を分けて考えるケース](https://www.youtube.com/watch?t=2634&v=CwOL9dgTpOE)
+  + [売買／その他目的有価証券](https://youtu.be/CwOL9dgTpOE?t=1991)
+  + [満期保有目的債権](https://youtu.be/CwOL9dgTpOE?t=2213)
+  + [その他有価証券の為替差損益を分けて考えるケース。容認処理](https://www.youtube.com/watch?t=2634&v=CwOL9dgTpOE)
+  + [子会社、関連会社、投資目的有価証券の減損](https://youtu.be/CwOL9dgTpOE?t=2892)
+  + [為替予約、振当て処理](https://youtu.be/CwOL9dgTpOE?t=3054)
 + [19 財務諸表]()
 + [19 財務諸表 part2]()
 + [20 会計上の変更および誤謬の訂正]()
@@ -64,6 +74,7 @@
 + [25 連結会計4](https://www.youtube.com/watch?v=Vwec1v593Uc)
 + [26 連結会計5](https://www.youtube.com/watch?v=--bWI64hVms)
 + [27 包括利益](https://www.youtube.com/watch?v=x24Xc6DNXFE)
+  + [31 過去問ゼミ工原 <138回>の解説を見る前に（包括利益計算書の解説）](https://www.youtube.com/watch?v=lYTi0rBcFqc)
 + [28 SPC](https://www.youtube.com/watch?v=rVPPLs2E6GQ)
 + [29 持分法](https://www.youtube.com/watch?v=NJ1PfnYMNrU)
 + [企業結合・事業分離(合併・分割会計）](https://www.youtube.com/watch?v=GIVhlnUSAk8)
@@ -211,7 +222,6 @@
   + [★全経162](https://youtu.be/W7JTU5Mu3ms?t=730)
   + [経営レバレッジ](https://youtu.be/W7JTU5Mu3ms?t=1433) 安全余裕率の逆数
 + [30 補講 本社工場](https://www.youtube.com/watch?v=NXVJa5hsyGA)
-+ [31 過去問ゼミ工原 <138回>の解説を見る前に（包括利益計算書の解説）](https://www.youtube.com/watch?v=lYTi0rBcFqc)
 + [32 過去問ゼミ工原 <138回>](https://www.youtube.com/watch?v=2QwhGsmRhRI)
 
 
