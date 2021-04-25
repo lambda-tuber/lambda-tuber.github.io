@@ -3,6 +3,8 @@
 ## 動画がない論点
 + [プロ簿記：金銭債権譲渡](https://pro-boki.com/recourse) ★132-商 ★141-商
 + [リース貸手の3つの記帳方式](https://kaikegaku.net/lease/itengaiflkashite.html) ★135会 ★全経xxx
++ [プロ簿記：売価還元法 仕入戻りの件](https://pro-boki.com/baikakangen) ★日商138商
++ [固定費調整、仕掛品は完成品換算量を用いる](https://kaikegaku.net/genkakesan/chokusetsu/hyojunchokusetsukotehichosetagaku.html) ★日商138原
 
 ## CMC関連
 ### 無料で学べる 日商簿記1級＆全経簿記上級
@@ -23,7 +25,10 @@
 + [06 引当金・資産除去債務](https://www.youtube.com/watch?v=MuhjKbouVi4)
 + [07 純資産会計](https://www.youtube.com/watch?v=cHicNxCCPFY)
 + [07 純資産会計 part2](https://www.youtube.com/watch?v=sxs6lhtywb4)
-+ [08 工事契約・売価還元法](https://www.youtube.com/watch?v=cP394tk8Ehk)
++ [08 売価還元法と工事契約](https://www.youtube.com/watch?v=cP394tk8Ehk)
+  + [売価還元原価法](https://youtu.be/cP394tk8Ehk?t=207)
+  + [売価還元低価法](https://youtu.be/cP394tk8Ehk?t=1114)
+  + [売価還元法 評価損を計上しない場合](https://youtu.be/cP394tk8Ehk?t=1561)
   + [工事進行基準](https://www.youtube.com/watch?t=1873&v=cP394tk8Ehk)
 + [09 税効果会計](https://www.youtube.com/watch?v=jpnVTx5_h4Q)
 + [10 損益会計と特殊商品販売](https://www.youtube.com/watch?v=hwPp4PG89HI)
@@ -167,7 +172,7 @@
   + [平均単価、価格面を重視した配合差異](https://youtu.be/wJHpxFnWDVg?t=2036)
   + [能率差異と歩留差異](https://youtu.be/wJHpxFnWDVg?t=2504)
 + [17 配合差異と歩留差異 2](https://www.youtube.com/watch?v=ku2B4Zv4ld4) 日商132工
-+ [18 直接原価計算](https://www.youtube.com/watch?v=0OT0B2fqLMw)
++ [18 直接原価計算](https://www.youtube.com/watch?v=0OT0B2fqLMw) 日商138原 直接標準原価計算の場合、原価標準は、標準変動製造原価を意味する。
   + [総合と直接の固定費調整](https://youtu.be/0OT0B2fqLMw?t=1047)
 + [18 直接原価計算 2](https://www.youtube.com/watch?v=lFcczbtwkxs) 日商126工
 + [19 ＣＶＰ分析と原価予測](https://www.youtube.com/watch?v=Lf7P21bSPjc)
@@ -303,9 +308,18 @@
 
 #### 140回
 + [商業簿記](https://www.youtube.com/watch?v=f4BO0rElFNE)
-+ [会計学 第1問](https://www.youtube.com/watch?v=ED-kBUMehho)
++ [会計学 第1問](https://www.youtube.com/watch?v=ED-kBUMehho) 共通支配下、未認識過去勤務費用、後発事象、資本連結、成果連結
 + [会計学 第2問](https://www.youtube.com/watch?v=BKfikaeligU)
-+ [会計学 第3問](https://www.youtube.com/watch?v=7iycpw3lGdw)
+  + 分配可能額
+    + その他資本剰余金 + その他利益剰余金(繰越利益剰余金 + 任意積立金)
+    + 控除
+      + 自己株式
+      + 自己株式の処分の対価
+      + 評価差額金(借方)
+      + のれん等調整額の分配制限
+        + のれん等調整額(のれんの1/2 ＋ 繰延資産)
+        + 資本等金額(資本金 + 資本準備金 + 利益準備金) 配当できない3点セット
++ [会計学 第3問](https://www.youtube.com/watch?v=v3OEr_PqJf0) 連結キャッシュフロー計算書(直接法)
 + [工業簿記](https://www.youtube.com/watch?v=TmZwcxmJq1o)
 + 原価計算(なし)
 
