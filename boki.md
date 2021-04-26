@@ -116,10 +116,13 @@
   + [相互配賦](https://youtu.be/_gSPQab7gEY?t=516)
   + [階梯式配賦](https://youtu.be/_gSPQab7gEY?t=1040)
   + [連立方程式配賦](https://youtu.be/_gSPQab7gEY?t=1618)
-+ [08 部門別計算2](https://www.youtube.com/watch?v=lqkTYA4bzx4)
++ [08 部門別計算2](https://www.youtube.com/watch?v=lqkTYA4bzx4) ★日商141原
   + [単一基準の実際配賦](https://youtu.be/lqkTYA4bzx4?t=386)
-  + [単一基準の予定配賦](https://youtu.be/lqkTYA4bzx4?t=753)
-  + [複数基準の予定配賦](https://youtu.be/lqkTYA4bzx4?t=970)
+  + [単一基準の予定配賦](https://youtu.be/lqkTYA4bzx4?t=753)  
+    補助部門の原価管理活動の良否を製造部門に影響させないため、実際から予定配賦にする。
+    補助部門の予算差異を製造部門に影響させない。
+  + [複数基準の予定配賦](https://youtu.be/lqkTYA4bzx4?t=970)  
+    単一基準では、製造部門間で、サービス消費量の影響を与え合う。変動費と固定費を分ける複数基準法で、固定費のサービス消費量の変動をなくす。
 + [09 個別原価計算](https://www.youtube.com/watch?v=qnnGpgn9bhw)
 + [10 総合原価計算、純粋先入先出法](https://www.youtube.com/watch?v=6HT8EihHEr8)
   + [平均法](https://youtu.be/6HT8EihHEr8?t=481)
@@ -233,10 +236,18 @@
 ## 資格合格 クレアール
 ### 簿記検定1級 受験対策
 
+#### 158回
+
+#### 157回
++ [解答速報](https://www.youtube.com/watch?v=3MG3oYYeodM)
+
+#### 156回
++ [商業簿記・会計学](https://www.youtube.com/watch?v=msfq4ZAtWWw)
++ [工業簿記・原価計算](https://www.youtube.com/watch?v=4Chs847M_lg)
+
 #### 153回
 + [商業簿記・会計学](https://www.youtube.com/watch?v=m5kNKAeyuYs)
 + [工業簿記・原価計算](https://www.youtube.com/watch?v=4Chs847M_lg)
-
 
 #### 152回
 + [商業簿記・会計学](https://www.youtube.com/watch?v=YaUKWzMbiy8)
@@ -298,30 +309,70 @@
 
 #### 141回
 + [商業簿記](https://www.youtube.com/watch?v=kQYQH2w5khg)
+  + リコースの件
+  + 売上原価の推定。甲商品を乙商品の価値に合わせて、合計の原価率推定。乙の期末の推定。
+  + 資産除去債務の中途変更。除去債務 ###／機械 ### で減らす。
 + [会計学 第1問](https://www.youtube.com/watch?v=DAg8xqdRfbQ)
-+ [会計学 第2問](https://www.youtube.com/watch?v=u8tz59lkYRg)
-+ [会計学 第3問](https://www.youtube.com/watch?v=_tW0Mq1hM_k)
++ [会計学 第2問](https://www.youtube.com/watch?v=u8tz59lkYRg) 事業分離。逆取得。子会社株式の移動。
++ [会計学 第3問](https://www.youtube.com/watch?v=_tW0Mq1hM_k) 連結損益計算書作成。
 + [工業簿記 第1問](https://www.youtube.com/watch?v=JKQBxaklB28&feature=youtu.be&t=3193)
-+ [工業簿記 第2問](https://www.youtube.com/watch?v=st2w25HMjMg)
++ [工業簿記 第2問](https://www.youtube.com/watch?v=st2w25HMjMg) 補助部門の配賦。実際単一基準から予定複数基準へ。
 + [原価計算 第1問](https://www.youtube.com/watch?v=0mru6FDOZe0)
-+ [原価計算 第2問](https://www.youtube.com/watch?v=AKV6PCMrUpo)
++ [原価計算 第2問](https://www.youtube.com/watch?v=AKV6PCMrUpo) 事業部の業績推定。残余利益。
 
 #### 140回
-+ [商業簿記](https://www.youtube.com/watch?v=f4BO0rElFNE)
++ [商業簿記](https://www.youtube.com/watch?v=f4BO0rElFNE) 資産グループの減損
 + [会計学 第1問](https://www.youtube.com/watch?v=ED-kBUMehho) 共通支配下、未認識過去勤務費用、後発事象、資本連結、成果連結
-+ [会計学 第2問](https://www.youtube.com/watch?v=BKfikaeligU)
-  + 分配可能額
-    + その他資本剰余金 + その他利益剰余金(繰越利益剰余金 + 任意積立金)
-    + 控除
-      + 自己株式
-      + 自己株式の処分の対価
-      + 評価差額金(借方)
-      + のれん等調整額の分配制限
-        + のれん等調整額(のれんの1/2 ＋ 繰延資産)
-        + 資本等金額(資本金 + 資本準備金 + 利益準備金) 配当できない3点セット
++ [会計学 第2問](https://www.youtube.com/watch?v=BKfikaeligU) 分配可能額
+  + その他資本剰余金 + その他利益剰余金(繰越利益剰余金 + 任意積立金)
+  + 控除
+    + 自己株式
+    + 自己株式の処分の対価
+    + 評価差額金(借方)
+    + のれん等調整額の分配制限 ![のれん等調整額](https://raw.githubusercontent.com/lambda-tuber/lambda-tuber.github.io/8e4e0e7aada415c1350b7c3207c022d7f3fb6e20/image/bunpai_kanou_gaku.png)
+      + のれん等調整額(のれんの1/2 ＋ 繰延資産)
+      + 資本等金額(資本金 + 資本準備金 + 利益準備金) 配当できない3点セット
 + [会計学 第3問](https://www.youtube.com/watch?v=v3OEr_PqJf0) 連結キャッシュフロー計算書(直接法)
-+ [工業簿記](https://www.youtube.com/watch?v=TmZwcxmJq1o)
-+ 原価計算(なし)
++ [工業簿記](https://www.youtube.com/watch?v=TmZwcxmJq1o)  
+   本社／工場 推定問題。繰延内部利益控除／戻入れ
++ 原価計算(動画なし)  
+  構造的意思決定 終価 戻ってきたキャッシュを10年後の価値に揃えて、現在価値にする。
+
+#### 138回
+  + 商業簿記(動画なし)
+  + 会計学(動画なし)
+  + 工業簿記(動画なし)
+  + 原価計算(動画なし)
+
+#### 137回
+  + 商業簿記(動画なし)
+  + 会計学(動画なし)
+  + 工業簿記(動画なし)
+  + 原価計算(動画なし)
+
+#### 135回
+  + 商業簿記(動画なし)
+  + 会計学(動画なし)
+  + 工業簿記(動画なし)
+  + 原価計算(動画なし)
+
+#### 134回
+  + 商業簿記(動画なし)
+  + 会計学(動画なし)
+  + 工業簿記(動画なし)
+  + 原価計算(動画なし)
+
+#### 132回
+  + 商業簿記(動画なし)
+  + 会計学(動画なし)
+  + 工業簿記(動画なし)
+  + 原価計算(動画なし)
+
+#### 131回
+  + 商業簿記(動画なし)
+  + 会計学(動画なし)
+  + 工業1簿記(動画なし)
+  + 原価計算(動画なし)
 
 ## ネットスクール
 ### 全経簿記上級
