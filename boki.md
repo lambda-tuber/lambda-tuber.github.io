@@ -21,6 +21,11 @@
     + [金融投資と事業投資](https://youtu.be/ln4UNhFom_8?t=4564)
 + [03 割賦販売](https://www.youtube.com/watch?v=EDyIxditchss)
 + [04 有形固定資産](https://www.youtube.com/watch?v=zb7OSIjLVz8)
+  + [概念フレームワーク](https://youtu.be/zb7OSIjLVz8?t=375)
+  + [費用配分の原則、費用収益対応の原則](https://youtu.be/zb7OSIjLVz8?t=1509) 個別的対応、期間的対応
+  + 定額、定率、級数、減耗、生産高比例法、取替法、総合償却。
+  + [修繕と資本的支出の按分](https://youtu.be/zb7OSIjLVz8?t=3863)
+  + [下取りで新車両を購入するケース](https://youtu.be/zb7OSIjLVz8?t=4154)
 + [05 無形固定資産・繰延資産・社債](https://www.youtube.com/watch?v=t2g0itED34Q)
 + [06 引当金・資産除去債務](https://www.youtube.com/watch?v=MuhjKbouVi4)
 + [07 純資産会計](https://www.youtube.com/watch?v=cHicNxCCPFY)
@@ -317,7 +322,7 @@
 + [会計学 第3問](https://www.youtube.com/watch?v=_tW0Mq1hM_k) 連結損益計算書作成。
 + [工業簿記 第1問](https://www.youtube.com/watch?v=JKQBxaklB28&feature=youtu.be&t=3193)
 + [工業簿記 第2問](https://www.youtube.com/watch?v=st2w25HMjMg) 補助部門の配賦。実際単一基準から予定複数基準へ。
-+ [原価計算 第1問](https://www.youtube.com/watch?v=0mru6FDOZe0)
++ [原価計算 第1問](https://www.youtube.com/watch?v=0mru6FDOZe0) CVP分析、貢献利益。
 + [原価計算 第2問](https://www.youtube.com/watch?v=AKV6PCMrUpo) 事業部の業績推定。残余利益。
 
 #### 140回
