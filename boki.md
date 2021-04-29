@@ -321,6 +321,10 @@
 + [会計学 第2問](https://www.youtube.com/watch?v=u8tz59lkYRg) 事業分離。逆取得。子会社株式の移動。
 + [会計学 第3問](https://www.youtube.com/watch?v=_tW0Mq1hM_k) 連結損益計算書作成。
 + [工業簿記 第1問](https://www.youtube.com/watch?v=JKQBxaklB28&feature=youtu.be&t=3193)
+  + 勘定の振り分け。製造間接費勘定で、材料／労務／経費を分けて記載しておく。
+  + 外注加工賃は、直接経費として仕掛へ。
+  + 出荷運送費は販管費
+  + 長期休止設備は営業外費用
 + [工業簿記 第2問](https://www.youtube.com/watch?v=st2w25HMjMg) 補助部門の配賦。実際単一基準から予定複数基準へ。
 + [原価計算 第1問](https://www.youtube.com/watch?v=0mru6FDOZe0) CVP分析、貢献利益。
 + [原価計算 第2問](https://www.youtube.com/watch?v=AKV6PCMrUpo) 事業部の業績推定。残余利益。
