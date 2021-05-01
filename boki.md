@@ -296,21 +296,36 @@
 
 #### 144回
 + [商業簿記](https://www.youtube.com/watch?v=jziAQfSLCFY)
+  + 売上原価の推定
+  + [為替予約 独立処理](https://youtu.be/DnZz9DEsE4g?t=482)
+  + 固定資産の修繕による資本的支出の按分
 + [会計学 第1問](https://www.youtube.com/watch?v=VzXnCZRpbXc)
-+ [会計学 第2問](https://www.youtube.com/watch?v=cLfdjxg6VAA)
-+ [工業簿記 第1問](https://www.youtube.com/watch?v=5uiVwStrgGA)
+  + 連結の退職給付
+  + 国庫補助金の圧縮記帳
++ [会計学 第2問](https://www.youtube.com/watch?v=cLfdjxg6VAA) 連結
++ [工業簿記 第1問](https://www.youtube.com/watch?v=5uiVwStrgGA) 標準原価計算の、記帳の簡略化・迅速化。
 + [工業簿記 第2問](https://www.youtube.com/watch?v=uApR0TTmHKk)
+  + 直接材料 平均的発生、終点発生のケース。完成品換算量の按分。
+  + 標準原価の原価差異の配賦
 + [原価計算 第1問](https://www.youtube.com/watch?v=GJrdLF-juuM)
 + [原価計算 第2問](https://www.youtube.com/watch?v=D-eEj1HpGI0)
 
 #### 143回
 + [商業簿記](https://www.youtube.com/watch?v=hmXX_omIDAM)
+  + 新株予約権の行使は、資本準備金
+  + 自己株式の処分は、その他資本剰余金
+  + 配当の1/10の積立は、利益準備金
 + [会計学 第1問](https://www.youtube.com/watch?v=dtH44SgUZb8)
-+ [会計学 第2問](https://www.youtube.com/watch?v=VohdrT2faPA)
-+ [会計学 第3問](https://www.youtube.com/watch?v=mz-ZyzJAPJM)
-+ [工業簿記 第1問](https://www.youtube.com/watch?v=SjI-TnRPocw)
-+ [工業簿記 第2問](https://www.youtube.com/watch?v=2B8NfDSns8w)
-+ [原価計算](https://www.youtube.com/watch?v=FJeQK9hZlL4)
+  + 事業分離の損益は、移転損益
+  + 四半期決算、実績主義と予測主義。
++ [会計学 第2問](https://www.youtube.com/watch?v=VohdrT2faPA) 在外子会社の連結。
+  + 利益剰余金：連結時HRに期中ARを加算
+  + 資本連結全体で、為替換算調整。HR(資本、評価)+AV(利益)⇔CR(全体)の差額
+  + のれんについて、別途、為替換算調整。HR+AV⇔CRの差額
++ [会計学 第3問](https://www.youtube.com/watch?v=mz-ZyzJAPJM) 工事進行基準
++ [工業簿記 第1問](https://www.youtube.com/watch?v=SjI-TnRPocw) 実際総合原価計算
++ [工業簿記 第2問](https://www.youtube.com/watch?v=2B8NfDSns8w) 受入れ価格差異の穴埋め
++ [原価計算](https://www.youtube.com/watch?v=FJeQK9hZlL4) 品質原価、差額原価計算
 
 #### 141回
 + [商業簿記](https://www.youtube.com/watch?v=kQYQH2w5khg)
