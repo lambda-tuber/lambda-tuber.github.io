@@ -5,6 +5,7 @@
 + [リース貸手の3つの記帳方式](https://kaikegaku.net/lease/itengaiflkashite.html) ★135会 ★全経xxx
 + [プロ簿記：売価還元法 仕入戻りの件](https://pro-boki.com/baikakangen) ★日商138商
 + [固定費調整、仕掛品は完成品換算量を用いる](https://kaikegaku.net/genkakesan/chokusetsu/hyojunchokusetsukotehichosetagaku.html) ★日商138原
++ [プロ簿記：圧縮記帳](https://pro-boki.com/reduction_entry) 圧縮しないで現金計上、固定資産簿価減額、圧縮積立金方式
 
 ## CMC関連
 ### 無料で学べる 日商簿記1級＆全経簿記上級
@@ -26,6 +27,7 @@
   + 定額、定率、級数、減耗、生産高比例法、取替法、総合償却。
   + [修繕と資本的支出の按分](https://youtu.be/zb7OSIjLVz8?t=3863)
   + [下取りで新車両を購入するケース](https://youtu.be/zb7OSIjLVz8?t=4154)
+  + [2級 圧縮記帳](https://www.youtube.com/watch?v=a3WgyKyglPc) 圧縮しないで現金計上、固定資産簿価減額
 + [05 無形固定資産・繰延資産・社債](https://www.youtube.com/watch?v=t2g0itED34Q)
 + [06 引当金・資産除去債務](https://www.youtube.com/watch?v=MuhjKbouVi4)
 + [07 純資産会計](https://www.youtube.com/watch?v=cHicNxCCPFY)
@@ -36,6 +38,7 @@
   + [売価還元法 評価損を計上しない場合](https://youtu.be/cP394tk8Ehk?t=1561)
   + [工事進行基準](https://www.youtube.com/watch?t=1873&v=cP394tk8Ehk)
 + [09 税効果会計](https://www.youtube.com/watch?v=jpnVTx5_h4Q)
+  + [圧縮記帳の税効果](https://youtu.be/jpnVTx5_h4Q?t=3156)
 + [10 損益会計と特殊商品販売](https://www.youtube.com/watch?v=hwPp4PG89HI)
 + [11 有価証券](https://www.youtube.com/watch?v=Rndrj_LsyNU)
 + [11 有価証券 part2](https://www.youtube.com/watch?v=eL7cjjCTfkI)
@@ -301,7 +304,7 @@
   + 固定資産の修繕による資本的支出の按分
 + [会計学 第1問](https://www.youtube.com/watch?v=VzXnCZRpbXc)
   + 連結の退職給付
-  + 国庫補助金の圧縮記帳
+  + [国庫補助金の圧縮記帳](https://speakerdeck.com/tomikuda/ri-shang-bo-ji-1ji-dui-ce-tui-zhi-gei-fu-hui-ji?slide=25)
 + [会計学 第2問](https://www.youtube.com/watch?v=cLfdjxg6VAA) 連結
 + [工業簿記 第1問](https://www.youtube.com/watch?v=5uiVwStrgGA) 標準原価計算の、記帳の簡略化・迅速化。
 + [工業簿記 第2問](https://www.youtube.com/watch?v=uApR0TTmHKk)
