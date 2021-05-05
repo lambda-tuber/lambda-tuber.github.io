@@ -84,6 +84,8 @@
 + [22 連結会計1](https://www.youtube.com/watch?v=sOgdMR5N1yo) ★131-商
 + [23 連結会計2](https://www.youtube.com/watch?v=tVkblRVFavw)
 + [24 連結会計3](https://www.youtube.com/watch?v=myZQBAjb8uo)
+  + [手形の相殺。割引した場合は短期借入金](https://youtu.be/myZQBAjb8uo?t=2485)
+  + [手形の裏書の相殺](https://youtu.be/myZQBAjb8uo?t=2813)
 + [25 連結会計4](https://www.youtube.com/watch?v=Vwec1v593Uc)
 + [26 連結会計5](https://www.youtube.com/watch?v=--bWI64hVms)
 + [27 包括利益](https://www.youtube.com/watch?v=x24Xc6DNXFE)
@@ -270,32 +272,56 @@
 + [原価計算 第2問](https://www.youtube.com/watch?v=QfZSHIpp2XI)
 
 #### 149回
-+ [商業簿記](https://www.youtube.com/watch?v=aTxt2XoMCTY)
-+ [会計学 第1問](https://www.youtube.com/watch?v=een9WJt0j5A)
++ [商業簿記](https://www.youtube.com/watch?v=aTxt2XoMCTY) 連結。
+  + 用語：税金等調整前当期純利益
+  + 利益剰余金当期主残高を逆算で求める。当期末から当期利益をマイナスして、配当を足す。
+  + その他の包括利益の対象がなにかを確認する。その他有価証券評価差額金。
+  + 負債の包括利益は累計額、包括利益計算書のその他の包括利益は、当期分。
+  + 包括利益を親と非支配に分ける場合、当期純利益とその他の包括利益をそれぞれ分ける。
+  + 受取手形の割引は、[短期借入金](https://youtu.be/aTxt2XoMCTY?t=1595)
++ [会計学 第1問](https://www.youtube.com/watch?v=een9WJt0j5A) 用語：見積現金購入価額
 + [会計学 第2問](https://www.youtube.com/watch?v=Dws52PZjr0Y)
-+ [会計学 第3問](https://www.youtube.com/watch?v=7iycpw3lGdw)
-+ [工業簿記](https://www.youtube.com/watch?v=Shfr3Vfz7ek)
+  + [法人税当調整額]() 退職給付引当金は損金不算入のため。期首と期末の引当金の税額差が法調。
+  + [退職給付に係る負債]() 期末の未認識を含む債務と年金の差額。
+  + [退職給付に係る調整額]()個別との差額(未認識分)を調整する。税効果適用後の税引値。
++ [会計学 第3問](https://www.youtube.com/watch?v=7iycpw3lGdw) 資産グループの減損。のれんを含むケース。
++ [工業簿記](https://www.youtube.com/watch?v=Shfr3Vfz7ek) 本社工場会計。繰延内部利益控除／戻入。
 + [原価計算](https://www.youtube.com/watch?v=qrMg-BUohe4)
+  + [マークアップ率](https://youtu.be/qrMg-BUohe4?t=465) 原価に対する利益の割合。
+  + [コスト・プラス](https://youtu.be/qrMg-BUohe4?t=491) 原価に獲得したい利益を上乗せして価格を決定する。
+  + [マーケットベースの価格決定](https://youtu.be/qrMg-BUohe4?t=680)
 
 #### 147回
 + [商業簿記](https://www.youtube.com/watch?v=UCKQdK4LeGM)
+  + 本支店会計、在外支店。
+  + 内部取引の相殺。売上／売上原価。なぜ、売上／支社ではないのか？
+  + 総合損益への振替。
+  + [セール・アンド・リースバック取引](https://youtu.be/UCKQdK4LeGM?t=2084) 長期前受収益。
 + [会計学 第1問](https://www.youtube.com/watch?v=2QfGwovIXNw)
-+ [会計学 第2問](https://www.youtube.com/watch?v=R0DovPyCLo0)
-+ [会計学 第3問](https://www.youtube.com/watch?v=TtrrKoH9gS0)
-+ [工業簿記](https://www.youtube.com/watch?v=r4mXXy9kH9A)
++ [会計学 第2問](https://www.youtube.com/watch?v=R0DovPyCLo0) 税効果会計。法調は、繰延税金の年度差額。
++ [会計学 第3問](https://www.youtube.com/watch?v=TtrrKoH9gS0) 事業分離、共同支配。持分法で考える。
++ [工業簿記](https://www.youtube.com/watch?v=r4mXXy9kH9A) 個別原価計算。品質原価管理。
 + [原価計算 第1問](https://www.youtube.com/watch?v=1XsJ6GwxFVQ)
-+ [原価計算 第2問](https://www.youtube.com/watch?v=70UdsAvlxgY)
+  + 連産品、副産物、価値移転的原価計算ができないため、負担能力主義。
+  + 管理会計の差額原価で意思決定。
++ [原価計算 第2問](https://www.youtube.com/watch?v=70UdsAvlxgY) 経営レバレッジ。安全余裕率。変動費固定費の割合。
 
 #### 146回
 + [商業簿記](https://www.youtube.com/watch?v=UnDP42ju14A)
+  + 販管費の繰延 → 前払費用
+  + 繰延税金の評価性引当金 → 回収不可能となった分。
 + [会計学 第1問](https://www.youtube.com/watch?v=xlK3XSP0iAc)
 + [会計学 第2問](https://www.youtube.com/watch?v=SuojyzLshvc)
+  + 時間的価値、本源的価値(現時点の価値)。
+  + 繰延ヘッジ損益は、売上確定時に売上に反映する。
 + [会計学 第3問](https://www.youtube.com/watch?v=F1Zr8ggtmQg)
+  + 事業移転、逆取得
+  + 移転前のS社時価(のれん発生)と移転事業時価(資本剰余金発生)に分けて、資本連結する。
 + [工業簿記 第1問](https://www.youtube.com/watch?v=f9Ny70LQw38)
 + [工業簿記 第2問](https://www.youtube.com/watch?v=x6v3IWY7d3w)
 + [原価計算 第1問](https://www.youtube.com/watch?v=O42Fc8oPRtM)
 + [原価計算 第2問](https://www.youtube.com/watch?v=lOB8VzL4L14)
-+ [原価計算 第3問](https://www.youtube.com/watch?v=BFq6y3Rurf8)
++ [原価計算 第3問](https://www.youtube.com/watch?v=BFq6y3Rurf8) チョコ停の件
 
 #### 144回
 + [商業簿記](https://www.youtube.com/watch?v=jziAQfSLCFY)
