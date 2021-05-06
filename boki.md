@@ -94,6 +94,12 @@
   + [31 過去問ゼミ工原 <138回>の解説を見る前に（包括利益計算書の解説）](https://www.youtube.com/watch?v=lYTi0rBcFqc)
 + [28 SPC](https://www.youtube.com/watch?v=rVPPLs2E6GQ)
 + [29 持分法](https://www.youtube.com/watch?v=NJ1PfnYMNrU)
+  + [持分のイメージ](https://youtu.be/NJ1PfnYMNrU?t=1012)
+  + [例題：タイムテーブル](https://youtu.be/NJ1PfnYMNrU?t=1165)
+  + [当期の仕訳](https://youtu.be/NJ1PfnYMNrU?t=1500)
+  + [配当金の仕訳](https://youtu.be/NJ1PfnYMNrU?t=2324)
+  + [ダウンストリーム](https://youtu.be/NJ1PfnYMNrU?t=2767)
+  + [アップストリーム](https://youtu.be/NJ1PfnYMNrU?t=3070)
 + [企業結合・事業分離(合併・分割会計）](https://www.youtube.com/watch?v=GIVhlnUSAk8)
   + [パーチェス法と持分プーリング法](https://www.youtube.com/watch?t=355&v=GIVhlnUSAk8)
   + [吸収合併、取得、存続会社はA社のみのケース](https://www.youtube.com/watch?t=503&v=GIVhlnUSAk8)
@@ -262,7 +268,16 @@
 + [工業簿記・原価計算](https://www.youtube.com/watch?v=4Chs847M_lg)
 
 #### 152回
-+ [商業簿記・会計学](https://www.youtube.com/watch?v=YaUKWzMbiy8)
++ [商業簿記](https://www.youtube.com/watch?v=YaUKWzMbiy8)
++ [会計学 第1問](https://youtu.be/YaUKWzMbiy8?t=1436) 穴埋め。
++ [会計学 第2問](https://youtu.be/YaUKWzMbiy8?t=1484) リースA～D。支払利息の未払い文を考慮する。原価償却は、年単位でよい。
++ [会計学 第3問](https://youtu.be/YaUKWzMbiy8?t=1484) 持分法。A株／持分法による投資損益。個別財務諸表の勘定を使う点に注意。  
+  資産勘定はA株、損益勘定は持分投資に変換。
+  + 受取配当金の相殺：受配／A株
+  + 未実現(ダウン)：売上／A株
+  + 税効果(ダウン)：繰資／法調
+  + 未実現(アップ)：持分投資／商品
+  + 税効果(アップ)：A株／持分投資
 + [工業簿記・原価計算](https://www.youtube.com/watch?v=bZ702XblLIE)
 
 #### 150回
@@ -274,7 +289,6 @@
   + 資産除去債務調整額は、利息費用。
   + 満期保有を投資目的に変更したため、時価を確認。
   + 投資目的がその他有価証券の分類。
-
 + [会計学 第1問 第3問](https://www.youtube.com/watch?v=uzyElJCh5Z4)
 + [会計学 第2問](https://www.youtube.com/watch?v=XSic6JwXwUQ)
   + リースの追加借入利子率を使ってファイナンスか決める？★★
@@ -302,7 +316,7 @@
 + [工業簿記](https://www.youtube.com/watch?v=Shfr3Vfz7ek) 本社工場会計。繰延内部利益控除／戻入。
 + [原価計算](https://www.youtube.com/watch?v=qrMg-BUohe4)
   + [マークアップ率](https://youtu.be/qrMg-BUohe4?t=465) 原価に対する利益の割合。
-  + [コスト・プラス](https://youtu.be/qrMg-BUohe4?t=491) 原価に獲得したい利益を上乗せして価格を決定する。
+  + [コスト・プラスの価格決定](https://youtu.be/qrMg-BUohe4?t=491) 原価に獲得したい利益を上乗せして価格を決定する。
   + [マーケットベースの価格決定](https://youtu.be/qrMg-BUohe4?t=680)
 
 #### 147回
