@@ -6,6 +6,7 @@
 + [プロ簿記：売価還元法 仕入戻りの件](https://pro-boki.com/baikakangen) ★日商138商
 + [固定費調整、仕掛品は完成品換算量を用いる](https://kaikegaku.net/genkakesan/chokusetsu/hyojunchokusetsukotehichosetagaku.html) ★日商138原
 + [プロ簿記：圧縮記帳](https://pro-boki.com/reduction_entry) 圧縮しないで現金計上、固定資産簿価減額、圧縮積立金方式
++ [プロ簿記：繰越欠損金](https://pro-boki.com/taxeffect6) 将来減算一時差異等の”等”は、繰越欠損金のこと
 
 ## CMC関連
 ### 無料で学べる 日商簿記1級＆全経簿記上級
@@ -265,10 +266,22 @@
 
 #### 150回
 + [商業簿記](https://www.youtube.com/watch?v=HxTzLcJ01mo)
+  + 支払配当の仕訳。利益準備金に1/10を積立てる。こみではない。資本金の1/4>資本準備金+利益準備金
+  + 売原の推定。前T/Bの未着品、仕入れがなにを表すか。
+  + 事業継承。先に取引全体の仕訳をしてのれんをだす。その後、資本、資本準備、自己株で表す。
+  + 圧縮記帳。減価償却には影響しない。繰越利益に戻す。圧縮積立金／繰越利益。
+  + 資産除去債務調整額は、利息費用。
+  + 満期保有を投資目的に変更したため、時価を確認。
+  + 投資目的がその他有価証券の分類。
+
 + [会計学 第1問 第3問](https://www.youtube.com/watch?v=uzyElJCh5Z4)
 + [会計学 第2問](https://www.youtube.com/watch?v=XSic6JwXwUQ)
+  + リースの追加借入利子率を使ってファイナンスか決める？★★
+  + 繰越欠損金は将来減損一時差異の一種。
 + [工業簿記](https://www.youtube.com/watch?v=3PwIlJStMdM)
+  + ABC：資源ドライバー、活動ドライバーは、コストドライバーの一種。
 + [原価計算 第1問](https://www.youtube.com/watch?v=2Z9Z_IVXcYM)
+  + 基準操業度、予定操業度を時間で考える。個数ではない。
 + [原価計算 第2問](https://www.youtube.com/watch?v=QfZSHIpp2XI)
 
 #### 149回
