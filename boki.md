@@ -31,6 +31,14 @@
   + [下取りで新車両を購入するケース](https://youtu.be/zb7OSIjLVz8?t=4154)
   + [2級 圧縮記帳](https://www.youtube.com/watch?v=a3WgyKyglPc) 圧縮しないで現金計上、固定資産簿価減額
 + [05 無形固定資産・繰延資産・社債](https://www.youtube.com/watch?v=t2g0itED34Q)
+  + [繰延資産](https://youtu.be/t2g0itED34Q?t=1441) 創業費、開業費、株式交付費、社債発行費、研究開発費。原則は費用処理。繰延資産は容認。
+  + [研究開発費](https://youtu.be/t2g0itED34Q?t=2785) 著しい改良は研究開発費用、通常の改良は無形固定資産(資本的支出)、改修などは修繕費(収益的支出)など。
+  + [ソフトウエア償却 ★日商122回](https://youtu.be/t2g0itED34Q?t=3400)
+  + [ソフトウエアの無形固定資産の算出 ★日商126回](https://youtu.be/t2g0itED34Q?t=3844)
+  + [社債 償却原価法](https://youtu.be/t2g0itED34Q?t=4700)
+  + [社債 買入償還](https://youtu.be/t2g0itED34Q?t=5257)
+  + [社債 抽選償還](https://youtu.be/t2g0itED34Q?t=5702)
+  + [社債 抽選償還 ★日商129商](https://youtu.be/t2g0itED34Q?t=6649)
 + [06 引当金・資産除去債務](https://www.youtube.com/watch?v=MuhjKbouVi4)
 + [07 純資産会計](https://www.youtube.com/watch?v=cHicNxCCPFY)
 + [07 純資産会計 part2](https://www.youtube.com/watch?v=sxs6lhtywb4)
@@ -53,13 +61,13 @@
   + [例題 一括法](https://youtu.be/kKzutFbqMZI?t=944)
   + [例題 区分法](https://youtu.be/kKzutFbqMZI?t=1275)
   + [★131-会2](https://youtu.be/kKzutFbqMZI?t=1791)
-+ [14 貸倒引当金]()
-+ [15 退職給付会計]()
-+ [15 退職給付会計 part2]()
-+ [16 リース会計]()
-+ [16 リース会計 part2]()
-+ [17 減損会計]()
-+ [17 減損会計 part2]()
++ [14 貸倒引当金](https://youtu.be/XEcwqxWRssI)
++ [15 退職給付会計](https://youtu.be/58wPWCH_pH0)
++ [15 退職給付会計 part2](https://youtu.be/dOTnZ5wfTqo)
++ [16 リース会計](https://youtu.be/jt6yihoxQJ0)
++ [16 リース会計 part2](https://youtu.be/5sVi1CyVQ6g)
++ [17 減損会計](https://youtu.be/t1uXBU5715Q)
++ [17 減損会計 part2](https://youtu.be/xdP0ngK9_RY)
 + [18 本支店会計](https://www.youtube.com/watch?v=z_L1OLTKP6M)
   + [直送処理](https://youtu.be/z_L1OLTKP6M?t=821)
   + [簿記一巡](https://youtu.be/z_L1OLTKP6M?t=1132)
@@ -269,8 +277,10 @@
 
 #### 152回
 + [商業簿記](https://www.youtube.com/watch?v=YaUKWzMbiy8)
+  + [誤謬の訂正の遡及適用として修正再表示](https://youtu.be/YaUKWzMbiy8?t=508) 税金分を繰越利益剰余金／未払法人税で起票。
+  + [税効果](https://youtu.be/YaUKWzMbiy8?t=991) 純資産直入のその他有価証券評価差額金の繰延税金を資産と負債に分ける必要があった。
 + [会計学 第1問](https://youtu.be/YaUKWzMbiy8?t=1436) 穴埋め。
-+ [会計学 第2問](https://youtu.be/YaUKWzMbiy8?t=1484) リースA～D。支払利息の未払い文を考慮する。原価償却は、年単位でよい。
++ [会計学 第2問](https://youtu.be/YaUKWzMbiy8?t=1484) リースA～D。支払利息の未払いを考慮する。原価償却は、年単位でよい。
 + [会計学 第3問](https://youtu.be/YaUKWzMbiy8?t=1484) 持分法。A株／持分法による投資損益。個別財務諸表の勘定を使う点に注意。  
   資産勘定はA株、損益勘定は持分投資に変換。
   + 受取配当金の相殺：受配／A株
