@@ -8,8 +8,11 @@
 + [固定費調整、仕掛品は完成品換算量を用いる](https://kaikegaku.net/genkakesan/chokusetsu/hyojunchokusetsukotehichosetagaku.html) ★日商138原
 + [プロ簿記：圧縮記帳](https://pro-boki.com/reduction_entry) 圧縮しないで現金計上、固定資産簿価減額、圧縮積立金方式
 + [プロ簿記：繰越欠損金](https://pro-boki.com/taxeffect6) 将来減算一時差異等の”等”は、繰越欠損金のこと
++ [プロ簿記：完成品換算 __総量__](https://pro-boki.com/152koubo)
 
 ## CMC関連
+
+### [スマホではじめる日商簿記1級(商業簿記・会計学編)](http://www.kaikei-soft.net/boki/boki1_smartp.html)
 ### 無料で学べる 日商簿記1級＆全経簿記上級
 
 #### 商会編
@@ -273,6 +276,14 @@
 
 #### 153回
 + [商業簿記・会計学](https://www.youtube.com/watch?v=m5kNKAeyuYs)
++ [会計学 第1問](https://youtu.be/m5kNKAeyuYs?t=1513)穴埋め。概念フレームワーク、意思決定の有用性
++ [会計学 第2問](https://youtu.be/m5kNKAeyuYs?t=1807) 連結
+  + 取得関連費用 RJ / S株
+  + 建物減価償却
+    + 前期 RJ/建物、非持/RJ
+    + 当期 減償/建物、非持/非利
+  + 一部売却 その他の包括利益累計額も、同パーセント、リスク解放。資本剰余金に振り返る。
+  + その他有価証券評価差額金 → その他の包括利益累計額
 + [工業簿記・原価計算](https://www.youtube.com/watch?v=4Chs847M_lg)
 
 #### 152回
@@ -288,7 +299,13 @@
   + 税効果(ダウン)：繰資／法調
   + 未実現(アップ)：持分投資／商品
   + 税効果(アップ)：A株／持分投資
-+ [工業簿記・原価計算](https://www.youtube.com/watch?v=bZ702XblLIE)
++ [工業簿記 第1問](https://www.youtube.com/watch?v=bZ702XblLIE)
+  + 工程別、累加法、非累加法。
+  + 材料の予定価格の推定が解かりにくい。
+  + 完成品換算 __総量__
+  + 修正先入先出法(2級までの方法) 純粋先入先出法(1級で追加された方法)
++ [工業簿記 第2問](https://youtu.be/bZ702XblLIE?t=1824) 外注加工賃の件。
++ [原価計算](https://youtu.be/bZ702XblLIE?t=2315) 直接標準原価計算。経営レバレッジ係数。
 
 #### 150回
 + [商業簿記](https://www.youtube.com/watch?v=HxTzLcJ01mo)
