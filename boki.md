@@ -459,19 +459,24 @@
   構造的意思決定 終価 戻ってきたキャッシュを10年後の価値に揃えて、現在価値にする。
 
 #### 138回
-  + 商業簿記(動画なし)
+  + [商業簿記](https://www.youtube.com/watch?v=q0IXpPHCAgo)
   + 会計学(動画なし)
   + 工業簿記(動画なし)
   + 原価計算(動画なし)
 
 #### 137回
-  + 商業簿記(動画なし)
+  + [商業簿記](https://www.youtube.com/watch?v=qbfbZsEohMo) 本支店会計。在外子会社
+    + 繰延内部利益控除/繰延内部利益、繰延内部利益/繰延内部利益戻入
+    + 為替予約：約定日、為替差損、前払費用/借入金、決算日、為替差損/前払費用
   + 会計学(動画なし)
-  + 工業簿記(動画なし)
-  + 原価計算(動画なし)
+    + 株式移転。ホールディングス。議決権比率が高い方が取得企業となる。簿価で処理。
+    + 資産除去債務。資産除去債務調整額は減価償却費で処理。減費/減累、資産除去債務
+  + 工業簿記(動画なし) 工程別組別実際総合原価計算。
+  + 原価計算(動画なし)  
+    読取りができないと0点。売上と売上総利益がわかるので、売原を推定。
 
 #### 135回
-  + 商業簿記(動画なし)
+  + [商業簿記](https://www.youtube.com/watch?v=SWvr2qaX6xE)
     + 未着品。期首：仕入／繰商、未着品／仕入、期末：仕入／未着品、繰商／仕入
     + セール・アンド・リースバック。
       + 資産売却：減累／備品、現金／長期前受収益。
@@ -500,7 +505,7 @@
     + 設備投資の意思決定。現行機器の売却益を1年目期末のキャッシュフローに含める。
 
 #### 132回
-  + 商業簿記(動画なし)
+  + [商業簿記](https://www.youtube.com/watch?v=LiCsTSVYpsk)
     + __<span style="color: red;">受手の不渡り。</span>__
     + __<span style="color: red;">リコース、改修業務資産。</span>__
   + 会計学 第1問(動画なし)
@@ -547,3 +552,23 @@
 + [工業簿記](https://www.youtube.com/watch?v=STHcEs4WqVc)
 + [原価計算](https://www.youtube.com/watch?v=9HBCm5k2fQo)
 
+
+## クレアール
+### 税理士試験
+#### 財務諸表論
+##### [2020年 70回](https://www.youtube.com/watch?v=3mSEdVaF-Eg)
+##### [2019年 69回](https://www.youtube.com/watch?v=O8uKdVdSscY)
+##### [2018年 68回](https://www.youtube.com/watch?v=1DNnmZiq7Jg)
+##### [2017年 67回](https://www.youtube.com/watch?v=78m1J_mRNvg)
+##### [2016年 66回](https://www.youtube.com/watch?v=LnznwNrCDq8)
+##### 2015年 65回
+##### [2014年 64回](https://www.youtube.com/watch?v=EXTcIPPHkyQ)
+
+#### 簿記論
+##### [2020年 70回](https://www.youtube.com/watch?v=dVb6sXBdNu0)
+##### [2019年 69回](https://www.youtube.com/watch?v=zh5c2bpbGHo)
+##### [2018年 68回](https://www.youtube.com/watch?v=EO7sHAcfvos)
+##### [2017年 67回](https://www.youtube.com/watch?v=JdVhOAmTRtM)
+##### [2016年 66回](https://www.youtube.com/watch?v=A7AbVTmQHNI)
+##### 2015年 65回
+##### [2014年 64回](https://www.youtube.com/watch?v=3vLobk77hNY)
