@@ -425,23 +425,30 @@
 
 #### 141回
 + [商業簿記](https://www.youtube.com/watch?v=kQYQH2w5khg)
-  + リコースの件
+  + __<span style="color: red;">リコースの件</span>__
   + 売上原価の推定。甲商品を乙商品の価値に合わせて、合計の原価率推定。乙の期末の推定。
-  + 資産除去債務の中途変更。除去債務 ###／機械 ### で減らす。
+  + __<span style="color: red;">資産除去債務の中途変更</span>__。除去債務 ###／機械 ### で減らす。
 + [会計学 第1問](https://www.youtube.com/watch?v=DAg8xqdRfbQ)
 + [会計学 第2問](https://www.youtube.com/watch?v=u8tz59lkYRg) 事業分離。逆取得。子会社株式の移動。
 + [会計学 第3問](https://www.youtube.com/watch?v=_tW0Mq1hM_k) 連結損益計算書作成。
+  + 税効果、評価差額、減価償却、未実現利益に適用。
 + [工業簿記 第1問](https://www.youtube.com/watch?v=JKQBxaklB28&feature=youtu.be&t=3193)
   + 勘定の振り分け。製造間接費勘定で、材料／労務／経費を分けて記載しておく。
   + 外注加工賃は、直接経費として仕掛へ。
   + 出荷運送費は販管費
   + 長期休止設備は営業外費用
+  + 固定資産の購入/売却は、損益に含めない。
+  + 減耗は、製造間接費(間接経費)
+  + 工場のつくえ、椅子などの物品も間接材料。
+  + 賃率差異、製造間接費配賦差異は、最後に売原から控除。
 + [工業簿記 第2問](https://www.youtube.com/watch?v=st2w25HMjMg) 補助部門の配賦。実際単一基準から予定複数基準へ。
 + [原価計算 第1問](https://www.youtube.com/watch?v=0mru6FDOZe0) CVP分析、貢献利益。
 + [原価計算 第2問](https://www.youtube.com/watch?v=AKV6PCMrUpo) 事業部の業績推定。残余利益。
 
 #### 140回
 + [商業簿記](https://www.youtube.com/watch?v=f4BO0rElFNE) 資産グループの減損
+  + 商品の評価方法を総平均から先入先出に方針変更した場合の遡及適用は、商品/繰越RJ
+  + 繰延税金資産の回収不可の場合は、法調/繰資
 + [会計学 第1問](https://www.youtube.com/watch?v=ED-kBUMehho) 共通支配下、未認識過去勤務費用、後発事象、資本連結、成果連結
 + [会計学 第2問](https://www.youtube.com/watch?v=BKfikaeligU) 分配可能額
   + その他資本剰余金 + その他利益剰余金(繰越利益剰余金 + 任意積立金)
