@@ -2,7 +2,7 @@
 
 
 ## 動画がない論点
-+ [プロ簿記：金銭債権譲渡](https://pro-boki.com/recourse) ★132-商 ★141-商
++ [プロ簿記：金銭債権譲渡](https://pro-boki.com/recourse) リコースの件 ★132-商 ★141-商
 + [リース貸手の3つの記帳方式](https://kaikegaku.net/lease/itengaiflkashite.html) ★135会 ★全経xxx
 + [プロ簿記：売価還元法 仕入戻りの件](https://pro-boki.com/baikakangen) ★日商138商
 + [固定費調整、仕掛品は完成品換算量を用いる](https://kaikegaku.net/genkakesan/chokusetsu/hyojunchokusetsukotehichosetagaku.html) ★日商138原
@@ -384,9 +384,9 @@
 + [会計学 第3問](https://www.youtube.com/watch?v=F1Zr8ggtmQg)
   + 事業移転、逆取得
   + 移転前のS社時価(のれん発生)と移転事業時価(資本剰余金発生)に分けて、資本連結する。
-+ [工業簿記 第1問](https://www.youtube.com/watch?v=f9Ny70LQw38)
-+ [工業簿記 第2問](https://www.youtube.com/watch?v=x6v3IWY7d3w)
-+ [原価計算 第1問](https://www.youtube.com/watch?v=O42Fc8oPRtM)
++ [工業簿記 第1問](https://www.youtube.com/watch?v=f9Ny70LQw38)部門別。相互配賦は自身を抜く。連立方程式法
++ [工業簿記 第2問](https://www.youtube.com/watch?v=x6v3IWY7d3w) 部門別の加工費の穴埋め
++ [原価計算 第1問](https://www.youtube.com/watch?v=O42Fc8oPRtM) 活動基準原価計算
 + [原価計算 第2問](https://www.youtube.com/watch?v=lOB8VzL4L14)
 + [原価計算 第3問](https://www.youtube.com/watch?v=BFq6y3Rurf8) チョコ停の件
 
@@ -403,8 +403,9 @@
 + [工業簿記 第2問](https://www.youtube.com/watch?v=uApR0TTmHKk)
   + 直接材料 平均的発生、終点発生のケース。完成品換算量の按分。
   + 標準原価の原価差異の配賦
-+ [原価計算 第1問](https://www.youtube.com/watch?v=GJrdLF-juuM)
-+ [原価計算 第2問](https://www.youtube.com/watch?v=D-eEj1HpGI0)
+  + 受入れ価格差をボックスに含める。
++ [原価計算 第1問](https://www.youtube.com/watch?v=GJrdLF-juuM) 設備投資の意思決定
++ [原価計算 第2問](https://www.youtube.com/watch?v=D-eEj1HpGI0) 内部振替の意思決定。部分最適化の弊害。
 
 #### 143回
 + [商業簿記](https://www.youtube.com/watch?v=hmXX_omIDAM)
@@ -415,11 +416,15 @@
   + 事業分離の損益は、移転損益
   + 四半期決算、実績主義と予測主義。
 + [会計学 第2問](https://www.youtube.com/watch?v=VohdrT2faPA) 在外子会社の連結。
+  + のれんをS社個別財務諸表に載せる特殊ケース。
+  + 為替換算も非支配に影響あり。
   + 利益剰余金：連結時HRに期中ARを加算
   + 資本連結全体で、為替換算調整。HR(資本、評価)+AV(利益)⇔CR(全体)の差額
   + のれんについて、別途、為替換算調整。HR+AV⇔CRの差額
 + [会計学 第3問](https://www.youtube.com/watch?v=mz-ZyzJAPJM) 工事進行基準
 + [工業簿記 第1問](https://www.youtube.com/watch?v=SjI-TnRPocw) 実際総合原価計算
+  + 減耗、仕損の非度外視法は、定点発生の場合、実数量で按分。
+  + 後々も問に対応するため、できるだけ細かい勘定ごとに集計しておく方がよい。
 + [工業簿記 第2問](https://www.youtube.com/watch?v=2B8NfDSns8w) 受入れ価格差異の穴埋め
 + [原価計算](https://www.youtube.com/watch?v=FJeQK9hZlL4) 品質原価、差額原価計算
 
@@ -431,7 +436,7 @@
 + [会計学 第1問](https://www.youtube.com/watch?v=DAg8xqdRfbQ)
 + [会計学 第2問](https://www.youtube.com/watch?v=u8tz59lkYRg) 事業分離。逆取得。子会社株式の移動。
 + [会計学 第3問](https://www.youtube.com/watch?v=_tW0Mq1hM_k) 連結損益計算書作成。
-  + 税効果、評価差額、減価償却、未実現利益に適用。
+  + 税効果は、評価差額、減価償却、未実現利益に適用。
 + [工業簿記 第1問](https://www.youtube.com/watch?v=JKQBxaklB28&feature=youtu.be&t=3193)
   + 勘定の振り分け。製造間接費勘定で、材料／労務／経費を分けて記載しておく。
   + 外注加工賃は、直接経費として仕掛へ。
