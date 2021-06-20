@@ -107,10 +107,19 @@
 + [22 連結会計1](https://www.youtube.com/watch?v=sOgdMR5N1yo) ★131-商
 + [23 連結会計2](https://www.youtube.com/watch?v=tVkblRVFavw)
 + [24 連結会計3](https://www.youtube.com/watch?v=myZQBAjb8uo)
+  + [成果連結 相殺仕訳](https://youtu.be/myZQBAjb8uo?t=1379)
+  + [貸引き](https://youtu.be/myZQBAjb8uo?t=1822)
   + [手形の相殺。割引した場合は短期借入金](https://youtu.be/myZQBAjb8uo?t=2485)
   + [手形の裏書の相殺](https://youtu.be/myZQBAjb8uo?t=2813)
 + [25 連結会計4](https://www.youtube.com/watch?v=Vwec1v593Uc)
+  + [未実現利益の消去](https://youtu.be/Vwec1v593Uc?t=150)
+  + [アップストリーム](https://youtu.be/Vwec1v593Uc?t=931)
+  + [過去問 日商134回](https://youtu.be/Vwec1v593Uc?t=1543)
+    + [減価償却](https://youtu.be/Vwec1v593Uc?t=2078)
 + [26 連結会計5](https://www.youtube.com/watch?v=--bWI64hVms)
+  + [追加取得、一部売却の全体像](https://youtu.be/--bWI64hVms?t=147)
+  + [追加取得 70%→80%](https://youtu.be/--bWI64hVms?t=612)
+  + [一部売却 80%→60%](https://youtu.be/--bWI64hVms?t=979)
 + [27 包括利益](https://www.youtube.com/watch?v=x24Xc6DNXFE)
   + [31 過去問ゼミ工原 <138回>の解説を見る前に（包括利益計算書の解説）](https://www.youtube.com/watch?v=lYTi0rBcFqc)
 + [28 SPC](https://www.youtube.com/watch?v=rVPPLs2E6GQ)
@@ -369,6 +378,7 @@
 + [会計学 第3問](https://www.youtube.com/watch?v=TtrrKoH9gS0) 事業分離、共同支配。持分法で考える。
 + [工業簿記](https://www.youtube.com/watch?v=r4mXXy9kH9A) 個別原価計算。品質原価管理。
 + [原価計算 第1問](https://www.youtube.com/watch?v=1XsJ6GwxFVQ)
+  + 連結原価を按分する際、__<span style="color: red;">販管費を控除してはいけない。</span>__ 見積売価で按分。
   + 連産品、副産物、価値移転的原価計算ができないため、負担能力主義。
   + 管理会計の差額原価で意思決定。
 + [原価計算 第2問](https://www.youtube.com/watch?v=70UdsAvlxgY) 経営レバレッジ。安全余裕率。変動費固定費の割合。
@@ -384,7 +394,7 @@
 + [会計学 第3問](https://www.youtube.com/watch?v=F1Zr8ggtmQg)
   + 事業移転、逆取得
   + 移転前のS社時価(のれん発生)と移転事業時価(資本剰余金発生)に分けて、資本連結する。
-+ [工業簿記 第1問](https://www.youtube.com/watch?v=f9Ny70LQw38)部門別。相互配賦は自身を抜く。連立方程式法
++ [工業簿記 第1問](https://www.youtube.com/watch?v=f9Ny70LQw38) 部門別。相互配賦は自身を抜く。連立方程式法
 + [工業簿記 第2問](https://www.youtube.com/watch?v=x6v3IWY7d3w) 部門別の加工費の穴埋め
 + [原価計算 第1問](https://www.youtube.com/watch?v=O42Fc8oPRtM) 活動基準原価計算
 + [原価計算 第2問](https://www.youtube.com/watch?v=lOB8VzL4L14)
@@ -573,6 +583,24 @@
 + [工業簿記](https://www.youtube.com/watch?v=STHcEs4WqVc)
 + [原価計算](https://www.youtube.com/watch?v=9HBCm5k2fQo)
 
+#### 181回
++ 商業簿記
++ 会計学
++ 工業簿記
++ 原価計算
+
+
+#### 181回(動画なし)
++ 商業簿記
+  + 自己株の処分でその他SJがマイナスになった場合、繰越RJから補填する。
+  + 開発費の償却を5年で実施。
+  + 退職給付の年金資産を期首に追加した場合、期待運用収益の計算に含める。
++ 会計学
+  + 総資産純利益率の推定は、期中平均。
++ 工業簿記
+  + 異常仕損を原価から抜く
+  + 正常仕損の評価額は、度外視の場合は消費から抜く。非度外視の場合は、抜き出した仕損から抜く。
++ 原価計算
 
 ## クレアール
 ### 税理士試験
