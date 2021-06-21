@@ -106,6 +106,7 @@
 + [20 会計上の変更および誤謬の訂正]()
 + [22 連結会計1](https://www.youtube.com/watch?v=sOgdMR5N1yo) ★131-商
 + [23 連結会計2](https://www.youtube.com/watch?v=tVkblRVFavw)
+  + [PL/SS/BL 株主資本等変動計算書まで](https://youtu.be/tVkblRVFavw?t=3062)
 + [24 連結会計3](https://www.youtube.com/watch?v=myZQBAjb8uo)
   + [成果連結 相殺仕訳](https://youtu.be/myZQBAjb8uo?t=1379)
   + [貸引き](https://youtu.be/myZQBAjb8uo?t=1822)
@@ -583,12 +584,52 @@
 + [工業簿記](https://www.youtube.com/watch?v=STHcEs4WqVc)
 + [原価計算](https://www.youtube.com/watch?v=9HBCm5k2fQo)
 
-#### 181回
+
+#### 189回
 + 商業簿記
 + 会計学
 + 工業簿記
 + 原価計算
 
+#### 187回
++ 商業簿記
++ 会計学
++ 工業簿記
++ 原価計算
+
+#### 185回
++ 商業簿記
+  + 本支店 繰延内部利益
+    + __<span style="color: green;">繰延内部利益控除 100 ／ 繰延内部利益 100</span>__
+    + __<span style="color: green;">繰延内部利益 100 ／ 繰延内部利益戻入 100</span>__
+  + リース貸手
+    + 開始時 __<span style="color: green;">リース投資資産 6000 ／ 売上 6000</span>__
+    + 開始時 __<span style="color: green;">売上原価 5550 ／ 買掛金 5550</span>__
+    + 決算① __<span style="color: green;">現金(リース料) 2000 ／ リース投資資産 2000</span>__
+    + 決算① __<span style="color: green;">繰延リース利益繰入 228 ／ 繰延リース利益 228</span>__
+    + 決算② __<span style="color: green;">繰延リース利益 151 ／ 繰延リース利益戻入 151</span>__
++ 会計学 キャッシュフロー計算書 直接法。
++ 工業簿記
+  + 個別原価計算
+  + 等級別と連産品
++ 原価計算
+  + 直接原価計算 cvp
+  + 品質原価計算
+
+#### 183回
++ 商業簿記
+  + __<span style="color: green;">買建オプション 100 ／ オプション差益 100</span>__
+  + 連結精算表
++ 会計学
+  + 企業結合に伴う取得費用は発生した事業年度の費用。  
+    __<span style="color: green;">RJ 100 ／ S株 100</span>__  ★日商153回
+  + ROE 分母の総資産は期中平均。
++ 工業簿記
+  + __<span style="color: red;">副産物は数量を出したとしても、完成品に原価を含めて、評価額のみ減算する。</span>__
+  + 仕掛品の貸方で、第2工程、中間製品、副産物に、勘定連絡を分岐。
++ 原価計算
+  + 等級別は、原価発生原因主義、価値移転原価計算。
+  + 連産品は、負担能力主義、正常市価基準や見積売価基準などで按分。
 
 #### 181回(動画なし)
 + 商業簿記
@@ -598,9 +639,10 @@
 + 会計学
   + 総資産純利益率の推定は、期中平均。
 + 工業簿記
-  + 異常仕損を原価から抜く
-  + 正常仕損の評価額は、度外視の場合は消費から抜く。非度外視の場合は、抜き出した仕損から抜く。
+  + __<span style="color: red;">異常仕損を原価から抜く</span>__
+  + __<span style="color: red;">正常仕損の評価額は、度外視の場合は消費から抜く。非度外視の場合は、抜き出した仕損から抜く。く</span>__
 + 原価計算
+
 
 ## クレアール
 ### 税理士試験
