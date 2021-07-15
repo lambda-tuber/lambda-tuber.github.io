@@ -157,7 +157,28 @@
   + [営業利益の計算](https://www.youtube.com/watch?v=Q4fbxtNv0to&t=1463)
   + [損益計算書](https://www.youtube.com/watch?v=Q4fbxtNv0to&t=2723)
 + [03 材料](https://www.youtube.com/watch?v=vKb253f73TU)
+  + 外部副費：買入手数料、引取運賃、荷役費、保険料、関税  
+    買引荷保険関（カヒニホカン）材料購入原価に含める。
+  + 内部副費：上記以外。
 + [04 労務費](https://www.youtube.com/watch?v=3eMqKtUdMps)
+  + 退職給付費用
+  + 法定福利費：健康保険、年金費用
+  + ![画像](https://inuboki.com/wp/wp-content/uploads/2021/02/koubo1-6b.jpg)
++ 0x 経費
+  + 直接経費：外注加工費のみ
+    + 無償支給 材料を仕掛に移して、加工費も仕掛に乗せる。  
+       __<span style="color: green;">仕掛品 100 ／ 材料 100</span>__  
+       __<span style="color: green;">外注加工費 100 ／ 現金 100</span>__  
+       __<span style="color: green;">仕掛品 100 ／ 外注加工費 100</span>__
+    + 有償支給 材料を売って、材料として買い戻す。消費税の課税対象。  
+       __<span style="color: green;">未収金 100 ／ 材料 100</span>__  
+       __<span style="color: green;">材料 150 ／ 未収金 100、現金(加工費) 50</span>__  
+       __<span style="color: green;">仕掛品 150 ／ 材料 150</span>__
+  + 間接経費
+    + 支払経費：旅費、福利施設負担額(社宅、保険所)、福利厚生費(社員旅行、歓迎会費)
+    + 月割経費：減価償却費(工場分)
+    + 計測経費：光熱費
+    + 発生経費：棚卸減耗費
 + [05 製造間接費](https://www.youtube.com/watch?v=8msizloha64)
 + [06 部門別計算0](https://www.youtube.com/watch?v=7k0b8kDKLMw) 案内のみ
 + [07 部門別計算1](https://www.youtube.com/watch?v=_gSPQab7gEY)
@@ -205,11 +226,21 @@
   + [全経165](https://www.youtube.com/watch?v=B7C62-zupFc)
   + [日商126原](https://youtu.be/B7C62-zupFc?t=1093)
 + [15 標準原価計算の基礎](https://www.youtube.com/watch?v=OI3VMA7fJdA)
+  + 目的：原価管理、財務諸表作成、予算管理、記帳の簡略化、正常化。
+  + [種別](https://pro-boki.com/kijun04)
+    + 理想標準原価　最大操業度を前提とした理想的な標準原価のこと。
+    + 現実的標準原価　良好な能率のもとにおいて、その達成が期待されうる標準原価のこと
+    + 正常原価　標準原価計算制度において用いられる標準原価
   + [原価標準の設定](https://www.youtube.com/watch?v=OI3VMA7fJdA&t=201)
   + [生産データの突き合わせ](https://www.youtube.com/watch?v=OI3VMA7fJdA&t=580)
   + [実際原価の計算](https://www.youtube.com/watch?v=OI3VMA7fJdA&t=820)
   + [差異分析](https://www.youtube.com/watch?v=OI3VMA7fJdA&t=1047)
     + [混合差異](https://www.youtube.com/watch?v=OI3VMA7fJdA&t=1198)
+    + 基準操業度
+      + 理論的生産能力(実現可能最大操業度) 理論上は達成可能な最大の操業度
+      + 実際的生産能力 実際に達成可能な最大の操業度水準
+      + 平均操業度(長期正常操業度) 長期的に平均化する期間は通常は3年または5年程度
+      + 期待実際操業度(次期予定操業度) 次の1年間に予想される(期待される）操業度水準
   + 記帳方法
     + [シングルプラン](https://www.youtube.com/watch?v=OI3VMA7fJdA&t=2445)
     + [パーシャルプラン](https://www.youtube.com/watch?v=OI3VMA7fJdA&t=3043)がなぜ必要なのか？
@@ -563,18 +594,18 @@
     + 加重平均標準単価による差異分析は __<span style="color: green;">没</span>__。
   + 原価計算(動画なし) 在庫をかかえていた件。
 
-#### 131回
-  + 商業簿記(動画なし) 連結、p,a,b,c 4社
+#### 131回(動画なし)
+  + 商業簿記 連結、p,a,b,c 4社
     + 一部売却。 b株,RF / 非持, 資J
     + C社、在外子会社100%。
-  + 会計学 第1問(動画なし) 穴埋め
+  + 会計学 第1問 穴埋め
     + 投資その他の資産
-  + 会計学 第2問(動画なし) 新株予約券付社債
+  + 会計学 第2問 新株予約券付社債
     + 区分法 社債と新株をそれぞれ処理
     + __<span style="color: red;">一括法</span>__ 社債のみ額面で処理。償却原価などもない。クーポンはあり。
-  + 会計学  第2問(動画なし) 株式交換比率。__<span style="color: red;">収益還元価値。</span>__
-  + 工業簿記(動画なし) 実際総合原価計算だが、個別原価計算のような大量の計算を解く必要あり。
-  + 原価計算(動画なし) 予算実績差異分析。__<span style="color: red;">純額分析(要因分析)。</span>__ ただし、総額分析(項目分析)もあり。
+  + 会計学 第3問 株式交換比率。__<span style="color: red;">収益還元価値。</span>__
+  + 工業簿記 実際総合原価計算だが、個別原価計算のような大量の計算を解く必要あり。
+  + 原価計算 予算実績差異分析。__<span style="color: red;">純額分析(要因分析)。</span>__ ただし、総額分析(項目分析)もあり。
 
 ## ネットスクール
 ### 全経簿記上級
