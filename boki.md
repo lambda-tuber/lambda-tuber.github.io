@@ -120,7 +120,10 @@
 + [26 連結会計5](https://www.youtube.com/watch?v=--bWI64hVms)
   + [追加取得、一部売却の全体像](https://youtu.be/--bWI64hVms?t=147)
   + [追加取得 70%→80%](https://youtu.be/--bWI64hVms?t=612)
-  + [一部売却 80%→60%](https://youtu.be/--bWI64hVms?t=979)
+  + [一部売却 80%→60%](https://youtu.be/--bWI64hVms?t=979)  
+      個別：__<span style="color: green;">現金150 / Ｓ株 100, 売却益(RJ) 50</span>__  
+      連結：__<span style="color: green;">現金150 / 被持 90, 資J 60</span>__  
+      相殺：__<span style="color: green;">Ｓ株 100, 売却益(RJ) 50 / 被持 90, 資J 60</span>__
 + [27 包括利益](https://www.youtube.com/watch?v=x24Xc6DNXFE)
   + [31 過去問ゼミ工原 <138回>の解説を見る前に（包括利益計算書の解説）](https://www.youtube.com/watch?v=lYTi0rBcFqc)
 + [28 SPC](https://www.youtube.com/watch?v=rVPPLs2E6GQ)
