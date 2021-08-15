@@ -4,6 +4,7 @@
 - [無料で学べる日商簿記1級＆全経簿記上級 工原編](#工原編)
 
 
+
 ## 動画がない論点
 + [プロ簿記：金銭債権譲渡](https://pro-boki.com/recourse) リコースの件 ★132-商 ★141-商
 + [リース貸手の3つの記帳方式](https://kaikegaku.net/lease/itengaiflkashite.html) ★135会 ★全経xxx
