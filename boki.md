@@ -325,12 +325,37 @@
 ### 簿記検定1級 受験対策
 
 #### 158回
++ [商業簿記](https://www.youtube.com/watch?v=76Eu1Pw_0mA)
++ [会計学 第1問](https://www.youtube.com/watch?v=_BFqZjgV3VQ)
++ [工業簿記 第1問](https://www.youtube.com/watch?v=y2tN6kQsI3k)
++ [原価計算](https://www.youtube.com/watch?v=w4AvJe66aZs)
 
 #### 157回
-+ [解答速報](https://www.youtube.com/watch?v=3MG3oYYeodM)
++ [商業簿記](https://youtu.be/3MG3oYYeodM?t=961)
+  + 推定。前T/Bの記載値が、処置済みの値があるので、注意。
+  + 売掛、買掛は、一部現金で回収済みの記載があっても、帳簿上は、計上があるので注意。
++ [会計学](https://youtu.be/3MG3oYYeodM?t=1999)
+  + 減損：主要な資産の情報を元に減損処理をするケース。
+  + ストックオプション：見込みと実際発生について注意。
+  + 逆取得の株式交換。
++ [工業簿記](https://youtu.be/3MG3oYYeodM?t=3037)
++ [原価計算 第1問](https://youtu.be/3MG3oYYeodM?t=4082)
+  + 単純投下資本利益率。一年あたりの平均のキャッシュフローが投資額に対して何パーセントか？
+  + 内部利益率が0%。投資額と将来キャッシュフローの合計が同じ場合。
++ [原価計算 第2問](hhttps://youtu.be/3MG3oYYeodM?t=4492)
+  + セールミックス。線形計画法、スラック変数、シンプレックス基準
 
 #### 156回
-+ [商業簿記](https://www.youtube.com/watch?v=msfq4ZAtWWw)
++ [商業簿記 第1問](https://youtu.be/msfq4ZAtWWw?t=299)
+  + 圧縮記帳。積立金の取り崩しに合わせて、繰延税金負債も取り崩す。
+  + 資本金等増加限度額が下がるケース。株式発行に合わせて自己株式を取り崩す場合、自己株に差損がある場合は、資本金等からさっぴくから。
++ [商業簿記 第2問](https://youtu.be/msfq4ZAtWWw?t=787)
+  + P→Sの売上のうち使ってしまった分(広告宣伝費)、使うことは問題ない。ただし内部利益を相殺する必要がある。  
+　    __<span style="color: green;">
+     売原 100 ／ 宣伝広告費100  
+    </span>__
+  + 負ののれん発生益
+
 + [会計学 第1問](https://youtu.be/msfq4ZAtWWw?t=1956)
 + [会計学 第2問](https://youtu.be/msfq4ZAtWWw?t=2200)  
 　    __<span style="color: green;">
