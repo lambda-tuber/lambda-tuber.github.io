@@ -326,9 +326,11 @@
 
 #### 158回
 + [商業簿記](https://www.youtube.com/watch?v=76Eu1Pw_0mA)
-+ [会計学 第1問](https://www.youtube.com/watch?v=_BFqZjgV3VQ)
-+ [工業簿記 第1問](https://www.youtube.com/watch?v=y2tN6kQsI3k)
-+ [原価計算](https://www.youtube.com/watch?v=w4AvJe66aZs)
++ [会計学 第1問](https://www.youtube.com/watch?v=_BFqZjgV3VQ)見積の変更、誤謬の訂正
++ [工業簿記 第1問](https://www.youtube.com/watch?v=y2tN6kQsI3k) 部門別、固定費／変動費別
++ [工業簿記 第2問](https://youtu.be/y2tN6kQsI3k?t=1062) 材料勘定
++ [原価計算 第1問](https://www.youtube.com/watch?v=w4AvJe66aZs) CVP
++ [原価計算 第2問](https://youtu.be/w4AvJe66aZs?t=1050) 理論、異常仕損。理想標準原価、現実的標準原価
 
 #### 157回
 + [商業簿記](https://youtu.be/3MG3oYYeodM?t=961)
@@ -535,7 +537,8 @@
   + 売上原価の推定。甲商品を乙商品の価値に合わせて、合計の原価率推定。乙の期末の推定。
   + __<span style="color: red;">資産除去債務の中途変更</span>__。除去債務 ###／機械 ### で減らす。
 + [会計学 第1問](https://www.youtube.com/watch?v=DAg8xqdRfbQ)
-+ [会計学 第2問](https://www.youtube.com/watch?v=u8tz59lkYRg) 事業分離。逆取得。子会社株式の移動。
++ [会計学 第2問](https://www.youtube.com/watch?v=u8tz59lkYRg) 事業分離。逆取得。子会社株式の移動。連結では、一部売却の資本取引の収益は、資本剰余金。その他ではない。  
+![逆取得](https://raw.githubusercontent.com/lambda-tuber/lambda-tuber.github.io/8e4e0e7aada415c1350b7c3207c022d7f3fb6e20/image/gyaku_syutoku.png)
 + [会計学 第3問](https://www.youtube.com/watch?v=_tW0Mq1hM_k) 連結損益計算書作成。
   + 税効果は、評価差額、減価償却、未実現利益に適用。
 + [工業簿記 第1問](https://www.youtube.com/watch?v=JKQBxaklB28&feature=youtu.be&t=3193)
