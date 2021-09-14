@@ -2,8 +2,7 @@
 
 - [無料で学べる日商簿記1級＆全経簿記上級 商会編](#商会編)
 - [無料で学べる日商簿記1級＆全経簿記上級 工原編](#工原編)
-
-
+- [資格合格クレアール 簿記検定1級 受験対策](#資格合格クレアール)
 
 ## 動画がない論点
 + [プロ簿記：金銭債権譲渡](https://pro-boki.com/recourse) リコースの件 ★132-商 ★141-商
@@ -322,7 +321,7 @@
 
 
 ## 資格合格クレアール
-### 簿記検定1級 受験対策
+### 簿記検定1級_受験対策
 
 #### 158回
 + [商業簿記](https://www.youtube.com/watch?v=76Eu1Pw_0mA)
@@ -524,7 +523,11 @@
   + 利益剰余金：連結時HRに期中ARを加算
   + 資本連結全体で、為替換算調整。HR(資本、評価)+AV(利益)⇔CR(全体)の差額
   + のれんについて、別途、為替換算調整。HR+AV⇔CRの差額
+  + 繰延税金負債はCRで換算
+  + 
 + [会計学 第3問](https://www.youtube.com/watch?v=mz-ZyzJAPJM) 工事進行基準
+  + 未収金は、売上から受取を引く。原価ではない。
+  + 工事損失引当金には、原価総額の増加分を加算する必要あり。
 + [工業簿記 第1問](https://www.youtube.com/watch?v=SjI-TnRPocw) 実際総合原価計算
   + 減耗、仕損の非度外視法は、定点発生の場合、実数量で按分。
   + 後々も問に対応するため、できるだけ細かい勘定ごとに集計しておく方がよい。
@@ -538,7 +541,7 @@
   + __<span style="color: red;">資産除去債務の中途変更</span>__。除去債務 ###／機械 ### で減らす。
 + [会計学 第1問](https://www.youtube.com/watch?v=DAg8xqdRfbQ)
 + [会計学 第2問](https://www.youtube.com/watch?v=u8tz59lkYRg) 事業分離。逆取得。子会社株式の移動。連結では、一部売却の資本取引の収益は、資本剰余金。その他ではない。  
-![逆取得](https://raw.githubusercontent.com/lambda-tuber/lambda-tuber.github.io/8e4e0e7aada415c1350b7c3207c022d7f3fb6e20/image/gyaku_syutoku.png)
+  ![事業分離](https://raw.githubusercontent.com/lambda-tuber/lambda-tuber.github.io/d264d51888d3f375e1a800004d4490ed51505231/image/gyaku_syutoku.png)
 + [会計学 第3問](https://www.youtube.com/watch?v=_tW0Mq1hM_k) 連結損益計算書作成。
   + 税効果は、評価差額、減価償却、未実現利益に適用。
 + [工業簿記 第1問](https://www.youtube.com/watch?v=JKQBxaklB28&feature=youtu.be&t=3193)
