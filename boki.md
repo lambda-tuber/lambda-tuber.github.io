@@ -372,6 +372,7 @@
     </span>__
   + 負ののれん発生益
 
+
 + [会計学 第1問](https://youtu.be/msfq4ZAtWWw?t=1956)
 + [会計学 第2問](https://youtu.be/msfq4ZAtWWw?t=2200)  
 　    __<span style="color: green;">
