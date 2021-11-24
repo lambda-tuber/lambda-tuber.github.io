@@ -3,6 +3,8 @@
 - [無料で学べる日商簿記1級＆全経簿記上級 商会編](#商会編)
 - [無料で学べる日商簿記1級＆全経簿記上級 工原編](#工原編)
 - [資格合格クレアール 簿記検定1級 受験対策](#資格合格クレアール)
+- [ネットスクール 全経上級](#ネットスクール)
+
 
 ## 動画がない論点
 + [プロ簿記：金銭債権譲渡](https://pro-boki.com/recourse) リコースの件 ★132-商 ★141-商
@@ -720,8 +722,22 @@
 ## ネットスクール
 ### 全経簿記上級
 #### 203回
-+ [商業簿記](https://www.youtube.com/watch?v=FKxwUnSEar4)
-+ [会計学](hhttps://www.youtube.com/watch?v=tPANUwBhBjs)
++ [商業簿記 第1問](https://youtu.be/FKxwUnSEar4?t=108)
+  + 級数法
+  + 取替法
++ [商業簿記 第2問](https://youtu.be/FKxwUnSEar4?t=909)
+  + 分配可能額
+  + 自己株式の処分は、処分価格で計算
++ [商業簿記 第3問](https://youtu.be/FKxwUnSEar4?t=1042)
+  + その他有価証券の部分純資産直入で、前年度評価損の洗い替えは評価益。
+  + 「最終利払日」とは、年度の利払日のこと。借入金の返済とは関係ない。
++ [会計学 第1問](https://youtu.be/tPANUwBhBjs?t=36)
++ [会計学 第2問](https://youtu.be/tPANUwBhBjs?t=710)
+  + 資本取引、損益取引。
++ [会計学 第3問](https://youtu.be/tPANUwBhBjs?t=1195)
+  + キャッシュフローの利息と配当。
+  + 損益計算書の勘定科目による分類。(支払利息、受取利息、受取配当は営業、支払配当は財務)
+  + 活動による分類。(受取利息、受取配当は投資のリターン、支払利息、支払配当は財務のコスト)
 + [工業簿記](https://www.youtube.com/watch?v=3iF6itTfOn0)
 + [原価計算](https://www.youtube.com/watch?v=AxZ3x5mZpxY)
  
