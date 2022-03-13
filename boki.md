@@ -326,6 +326,11 @@
 ### 簿記検定1級_受験対策
 
 #### 158回
++ [商業簿記](https://www.youtube.com/watch?v=wMuvuABGrmg)
++ [会計学 第1問](https://www.youtube.com/watch?v=mypIbT64eLE)
++ [工業簿記 第1問](https://www.youtube.com/watch?v=6MSIMBo3rqo)
++ [原価計算 第1問](https://www.youtube.com/watch?v=U-x5xd6Tvx8)
+#### 158回
 + [商業簿記](https://www.youtube.com/watch?v=76Eu1Pw_0mA)
 + [会計学 第1問](https://www.youtube.com/watch?v=_BFqZjgV3VQ)見積の変更、誤謬の訂正
   + 連結の未実現損益、と未実現損失。回収不可は差し引かない。
@@ -722,6 +727,11 @@
 ## ネットスクール
 ### 全経簿記上級
 #### 203回
++ [商業簿記 第1問](https://www.youtube.com/watch?v=AprBn-yzoX8)
++ [会計学 第1問](https://www.youtube.com/watch?v=6Uf7qUxrYn0)
++ [工業簿記 第1問](https://www.youtube.com/watch?v=PgMmUooQhTI)
++ [原価計算 第1問](https://www.youtube.com/watch?v=YqWQuVvaEqI)
+#### 203回
 + [商業簿記 第1問](https://youtu.be/FKxwUnSEar4?t=108)
   + 級数法
   + 取替法
@@ -738,24 +748,42 @@
   + キャッシュフローの利息と配当。
   + 損益計算書の勘定科目による分類。(支払利息、受取利息、受取配当は営業、支払配当は財務)
   + 活動による分類。(受取利息、受取配当は投資のリターン、支払利息、支払配当は財務のコスト)
-+ [工業簿記](https://www.youtube.com/watch?v=3iF6itTfOn0)
-+ [原価計算](https://www.youtube.com/watch?v=AxZ3x5mZpxY)
++ [工業簿記 第1問](https://youtu.be/3iF6itTfOn0?t=46)
+  + 材料勘定
++ [工業簿記 第2問](https://youtu.be/3iF6itTfOn0?t=879)
+  + 連さん品、副産物
+  + 副産物は、作業屑、仕損品と同じ処理。評価額があれば、原価から差し引く。完成品負担か両者負担か、発生時点の進捗で見極める。両者負担の場合は、材料か加工費かの見極めが必要。大抵、材料として再利用する記載があるので、その場合は、材料の数量換算で按分すればよい。
++ [工業簿記 第3問](https://youtu.be/3iF6itTfOn0?t=1642)
+  + 複合費：形態別では異なる原価を、共通の目的、機能実現のための費用としてまとめた費目。
+  + 間接経費として計上し、製造間接費経由で製品に賦課する。
++ [原価計算 第1問](https://youtu.be/AxZ3x5mZpxY?t=23)
+  + 正味現在価値
+  + 会計の損益を出した場合は、税抜き損益にDepを全額加算すれば、CFになる。
+  + 機器売却益について、CFが発生しないが、税金が発生する点を、Depのシールドと同様に考慮する必要がある。
++ [原価計算 第2問](https://youtu.be/AxZ3x5mZpxY?t=1605)
+  + IRR（Internal Rate of Return：内部収益率・内部利益率）
++ [原価計算 第3問](https://youtu.be/AxZ3x5mZpxY?t=2159)
+  + 原価企画
+    + 許容原価：控除法
+    + 成行原価：積み上げ法、概算見積り。
  
 #### 201回
 + [商業簿記 第1問](https://www.youtube.com/watch?v=zQmc-ic9Fyk) 連結精算表
+  + 当期の純利益を変動値とする。
 + [商業簿記 第2問](https://www.youtube.com/watch?v=-ay-brdxi-Y)
+  + 消費税について明記がないが、考慮する必要あり。
 + [会計学](https://www.youtube.com/watch?v=iuS06uGeqxE)
   + 退職給付見込み額の算定方式は、給与算定基準、期間定額基準
   + リース債務は、1年基準に従い、流動負債と固定負債に表示する。
   + [研究開発費](https://www.fsa.go.jp/p_mof/singikai/kaikei/tosin/1a909e2.htm)に該当しないソフトウェア制作費に係る会計処理は、受注制作のソフトウェア、市場販売目的のソフトウェア、自社利用のソフトウェアに係る会計処理でそれぞれ異なる。
   + 繰延税金資産は、投資その他の資産、繰延税金負債は固定負債に表示する。
-  + 事業税は販管費に表示する。
+  + 事業税のうち付加価値割と資本割は販管費に表示する。所得割は法人税等に含まれる。
   + 連結の子会社の評価は全面時価評価。以前は部分時価評価があった。今はダメ。
   + 在外支店は同じ企業なので会計方針は本社に合わせる。
   + 在外子会社は別会社。それぞれ独立の会計方針を持つ。収益費用は期中レート。期間損益だから。
 + [工業簿記](https://www.youtube.com/watch?v=ykBa8ZMoAv8)
   + 標準原価計算。修正パーシャルプラン。
-  + 標準原価計算。仕損の度外視、非度外視。
+  + 標準原価計算。仕損の度外視(第1法)、非度外視(第2法)。第2法の特別仕損費を含む標準原価は、仕損を負担する完成費にの計算で使用する。仕損を負担しない期末は、特別仕損費を含まない標準原価で計算する。
 + [原価計算](https://www.youtube.com/watch?v=l_u0aq6ipZ4)
   + 利益を最大にする製品の組み合わせは、貢献利益の高い順だが、単位時間あたりに注意する。
 
