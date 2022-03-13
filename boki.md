@@ -6,7 +6,6 @@
 - [ネットスクール 全経上級](#ネットスクール)
 
 
-
 ## 動画がない論点
 + [プロ簿記：金銭債権譲渡](https://pro-boki.com/recourse) リコースの件 ★132-商 ★141-商
 + [リース貸手の3つの記帳方式](https://kaikegaku.net/lease/itengaiflkashite.html) ★135会 ★全経xxx
