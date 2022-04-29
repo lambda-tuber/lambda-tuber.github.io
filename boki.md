@@ -5,8 +5,8 @@
 - [資格合格クレアール 簿記検定1級 受験対策](#資格合格クレアール)
 - [ネットスクール 全経上級](#ネットスクール)
 - [クレアール](#クレアール)
-- [CPA会計学院](#CPA会計学院)
-- [会計基準](#会計基準)
+- [CPA会計学院](#公認会計士試験対策)
+- [会計公準／原則／基準](#会計公準／原則／基準)
 
 
 
@@ -981,8 +981,8 @@
 + [2014年 64回](https://www.youtube.com/watch?v=3vLobk77hNY)
 
 
-## CPA会計学院
-### 公認会計士試験
+## CPA
+### 公認会計士試験対策
 + [連結会計の基礎を90分で確認！](https://www.youtube.com/watch?v=_MJnsyIThYg)
 + [2020年合格目標 財務会計論計算 圧縮講義第1回 連結会計（連結の基礎・資本連結基礎）前半 ](https://www.youtube.com/watch?v=-mvQicELnJc)
 + [2020年合格目標 財務会計論計算 圧縮講義第1回 連結会計（連結の基礎・資本連結基礎）後半](https://www.youtube.com/watch?v=RZ93fXHbSGw)
@@ -1000,7 +1000,7 @@
 + [2021年12月 無料公開講座 管理会計論 池邉講師 後半](hhttps://www.youtube.com/watch?v=IbhG-G0GDPY)
 + [デリバティブ&ヘッジ会計](https://www.youtube.com/watch?v=bPLjpqqnrgU)
 
-## 会計基準
+## 会計公準／原則／基準
 + [企業会計公準](https://kaikegaku.net/soron/kaikekojun.html)
 + [企業会計原則](https://ja.wikibooks.org/wiki/%E4%BC%81%E6%A5%AD%E4%BC%9A%E8%A8%88%E5%8E%9F%E5%89%87)
   + 一般原則
