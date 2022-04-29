@@ -1001,10 +1001,47 @@
 + [デリバティブ&ヘッジ会計](https://www.youtube.com/watch?v=bPLjpqqnrgU)
 
 ## 会計基準
-+ [会計基準](https://www.youtube.com/watch?v=zQmc-ic9Fyk)
-+ [損益計算基準](https://www.youtube.com/watch?v=zQmc-ic9Fyk)
-+ [貸借対照表基準](https://www.youtube.com/watch?v=zQmc-ic9Fyk)
-+ [原価計算基準](https://www.youtube.com/watch?v=zQmc-ic9Fyk)
++ [企業会計公準](https://kaikegaku.net/soron/kaikekojun.html)
++ [企業会計原則](https://ja.wikibooks.org/wiki/%E4%BC%81%E6%A5%AD%E4%BC%9A%E8%A8%88%E5%8E%9F%E5%89%87)
+  + 一般原則
+  + 損益計算書原則
+  + 貸借対照表原則
++ [企業会計原則注解](https://ja.wikibooks.org/wiki/%E4%BC%81%E6%A5%AD%E4%BC%9A%E8%A8%88%E5%8E%9F%E5%89%87%E6%B3%A8%E8%A7%A3)
++ [企業会計基準](https://www.asb.or.jp/jp/)
+  + 第01号 [自己株式及び準備金の額の減少等に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/kansoka_2015_1.pdf)
+  + 第02号 [１株当たり当期純利益に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/20200331_01.pdf)
+  + 第03号 参照：企業会計基準第26号
+  + 第04号 [役員賞与に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/yakuin.pdf)
+  + 第05号 [貸借対照表の純資産の部の表示に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/kabushikihoshu20210128_03.pdf)
+  + 第06号 [株主資本等変動計算書に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/20200331_02.pdf)
+  + 第07号 [事業分離等に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/20190116_07.pdf)
+  + 第08号 [ストック・オプション等に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/stockop_s2.pdf)
+  + 第09号 [棚卸資産の評価に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/20200331_03.pdf)
+  + 第10号 [金融商品に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/20190704_05.pdf)
+  + 第11号 [関連当事者の開示に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/kan_ren_2.pdf)
+  + 第12号 [四半期財務諸表に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/shueki20200331_08.pdf)
+  + 第13号 [リース取引に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/Lease_55.pdf)
+  + 第14号 参照：企業会計基準第26号
+  + 第15号 [工事契約に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/kouji-keiyaku.pdf)
+  + 第16号 [持分法に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/zaigai_2015_3.pdf)
+  + 第17号 [セグメント情報等の開示に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/20200331_04.pdf)
+  + 第18号 [資産除去債務に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/aro.pdf)
+  + 第19号 参照：企業会計基準第26号 
+  + 第20号 [賃貸等不動産の時価等の開示に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/20190704_13.pdf)
+  + 第21号 [企業結合に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/20200331_05.pdf)
+  + 第22号 [連結財務諸表に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/20200331_06.pdf)
+  + 第23号 [『研究開発費等に係る会計基準』の一部改正](https://www.asb.or.jp/jp/wp-content/uploads/ketsugou_5.pdf)
+  + 第24号 [会計方針の開示、会計上の変更及び誤謬の訂正に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/accounting-policies20200331_02.pdf)
+  + 第25号 [包括利益の表示に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/20200331_07.pdf)
+  + 第26号 [退職給付に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/20200331_08.pdf)
+  + 第27号 [法人税、住民税及び事業税等に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/grouptsuusan20210812_04.pdf)
+  + 第28号 [『税効果会計に係る会計基準』の一部改正](https://www.asb.or.jp/jp/wp-content/uploads/grouptsuusan20210812_05.pdf)
+  + 第29号 [収益認識に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/shueki20200331_02_20200706.pdf)
+  + 第30号 [時価の算定に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/20200331_11.pdf)
+  + 第31号 [会計上の見積りの開示に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/accounting-estimates20200331_02.pdf)
++ 企業会計基準適用指針
++ 実務対応報告
++ [原価計算基準](https://ja.wikibooks.org/wiki/%E5%8E%9F%E4%BE%A1%E8%A8%88%E7%AE%97%E5%9F%BA%E6%BA%96)
 
 # メモ
 + 日商137回 会計学 第2問 ホールディングス
