@@ -995,7 +995,7 @@
 + [連結キャッシュ・フロー計算書完全マスター講義（圧縮講義第11回） 前半](https://www.youtube.com/watch?v=sIyXqYWohRw)
 + [連結キャッシュ・フロー計算書完全マスター講義（圧縮講義第11回） 後半](https://www.youtube.com/watch?v=gxioW8mW1C4)
 + [無料公開講座 退職給付会計完全マスター講義_2019年12月](https://www.youtube.com/watch?v=FOq9JdmCoVE)
-+ [2021年08月 無料公開講座 管理会計論 池邉講師 標準原価計算](https://www.youtube.com/watch?v=OXGChuYco-g)
++ [2021年08月 無料公開講座 管理会計論 池邉講師 標準原価計算](https://www.youtube.com/watch?v=GEP-iKWzpcE)
 + [2021年12月 無料公開講座 管理会計論 池邉講師 前半](https://www.youtube.com/watch?v=OXGChuYco-g)
 + [2021年12月 無料公開講座 管理会計論 池邉講師 後半](hhttps://www.youtube.com/watch?v=IbhG-G0GDPY)
 + [デリバティブ&ヘッジ会計](https://www.youtube.com/watch?v=bPLjpqqnrgU)
