@@ -6,8 +6,8 @@
 - [ネットスクール 全経上級](#ネットスクール)
 - [クレアール](#クレアール)
 - [CPA会計学院](#公認会計士試験対策)
-- [和歌山大学 経済学部 財務会計論](#和歌山大学／経済学部／財務会計論)
-- [会計公準／原則／基準](#会計公準／原則／基準)
+- [和歌山大学 経済学部 財務会計論](#和歌山大学)
+- [会計公準／原則／基準](#公準)
 
 
 
@@ -1024,7 +1024,8 @@
 + [短答簿記の解法動画#20 ソフトウェア 0505](https://www.youtube.com/watch?v=QswHYXjGaxc)
 + [短答簿記の解法動画#21 連結会計④ 0506](https://www.youtube.com/watch?v=-kG5MvVXF3E)
 
-## 和歌山大学／経済学部／財務会計論
+## 和歌山大学
+### 経済学部 財務会計論
 + [再生リスト](https://www.youtube.com/channel/UCEIXVN81vRGlNxL9jrsyhvQ/playlists)
   + [シン・簿記の勉強をはじめよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB48_Q7w6vXMUH2bowN443I92)
   + [大学教員が教える簿記1級](https://www.youtube.com/playlist?list=PLIKsJyHooB48x4aOos6hiX-RcwLymIMOJ)
@@ -1035,33 +1036,36 @@
   + [必ず5番目に見よう！負債会計総論をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB4_PR4Z_ohyLb7E08wC-AtPK)
   + [必ず6番目に見よう！純資産会計の基礎をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB4-YdvZF-artMEekDpNY9Zue)
   + [資産会計総論の応用をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB4-0wuzR7w6_h4nOyAbYfvew)
-  + [預金をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB48I0cV_4aHd5vPT1DydclIs)
   + [現金をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB4-as1BSRsBlel6syhyxSk5H)
-  + [社債をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB4-q1yXpec1AvkzeUD83WUYa)
+  + [預金をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB48I0cV_4aHd5vPT1DydclIs)
+  + [金銭債権をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB48dNHqr7RwUBUQ8G-OYkBfG)
+  + [金銭債権の特殊論点をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB49vd3CoEK8F6jCyqJUJgljk)
   + [有価証券をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB4_Ex46DcgWIvvGoa228Bute)
+  + [社債をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB4-q1yXpec1AvkzeUD83WUYa)
   + [引当金会計総論をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB49eBt-uP-uZxh0gQqXcJYNq)
   + [貸倒引当金をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB49gp4AFUHWBtGDVyoDba8nK)
   + [退職給付会計をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB49opd_12pC0ewhS4heObntQ)
   + [有形固定資産をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB4-TQ789AAGROlcQirGSGZNC)
-  + [無形固定資産をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB49jnJTcFKtMc-Y6PZhZuPhA)
-  + [リース会計をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB4_i3hOlVi9xNsO-bI8ZZuEp )
   + [資産除去債務をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB4-jVVJT2g6-KqX6bQoYZJYk)
+  + [無形固定資産をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB49jnJTcFKtMc-Y6PZhZuPhA)
   + [減損会計をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB4-SglQUzfMbOJ-JSti8-hin)
+  + [リース会計をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB4_i3hOlVi9xNsO-bI8ZZuEp )
   + [圧縮記帳をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB4-4DABJFmpPUWVTc8t7cQvB)
-  + [税効果会計をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB48M8Gv5cZJmGBveecXWuMUN)
-  + [金銭債権をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB48dNHqr7RwUBUQ8G-OYkBfG)
-  + [金銭債権の特殊論点をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB49vd3CoEK8F6jCyqJUJgljk)
   + [繰延資産をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB4-y18VnsGF6lp6IysKDzUsn)
+  + [税効果会計をマスターしよう！](https://www.youtube.com/playlist?list=PLIKsJyHooB48M8Gv5cZJmGBveecXWuMUN)
 
 
 
 ## 会計公準／原則／基準
+### 公準
 + [企業会計公準](https://kaikegaku.net/soron/kaikekojun.html)
+### 原則
 + [企業会計原則](https://ja.wikibooks.org/wiki/%E4%BC%81%E6%A5%AD%E4%BC%9A%E8%A8%88%E5%8E%9F%E5%89%87)
   + 一般原則
   + 損益計算書原則
   + 貸借対照表原則
 + [企業会計原則注解](https://ja.wikibooks.org/wiki/%E4%BC%81%E6%A5%AD%E4%BC%9A%E8%A8%88%E5%8E%9F%E5%89%87%E6%B3%A8%E8%A7%A3)
+### 基準
 + [企業会計基準](https://www.asb.or.jp/jp/)
   + 第01号 [自己株式及び準備金の額の減少等に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/kansoka_2015_1.pdf)
   + 第02号 [１株当たり当期純利益に関する会計基準](https://www.asb.or.jp/jp/wp-content/uploads/20200331_01.pdf)
