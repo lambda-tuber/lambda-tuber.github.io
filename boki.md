@@ -731,6 +731,9 @@
   + 原価計算 予算実績差異分析。__<span style="color: red;">純額分析(要因分析)。</span>__ ただし、総額分析(項目分析)もあり。
 
 ## ネットスクール
+
+### 日商簿記２級の後に学んでおきたい１２の知識
++ [再生リスト](https://www.youtube.com/watch?v=rliZxs7GTfY&list=PLNYgnR26-ZnpxZ51D_cGyVC_K5pL5aX3Y)
 ### 全経簿記上級
 
 #### 205回
