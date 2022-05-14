@@ -391,6 +391,11 @@
 　    __<span style="color: green;">
      先物契約 100／ 繰延税金負債30、繰延ヘッジ損益 70  
     </span>__
+    　保有目的の変更  
+　　![保有目的の変更](https://assets.ey.com/content/dam/ey-sites/ey-com/ja_jp/topics/corporate-accounting/commentary/financial-instruments/images/ey-japan-corporate-accounting-commentary-financial-instruments-2010-10-13-chart-01.gif)
+
+    
+
 + [会計学 第3問](https://youtu.be/msfq4ZAtWWw?t=2820)
   + 移転ファイナンスリース => 貸手の購入価格が判っていれば、購入価格
   + 移転外ファイナンスリース => 貸手の購入価格とリース料の安い方。
