@@ -20,6 +20,9 @@
 + [プロ簿記：繰越欠損金](https://pro-boki.com/taxeffect6) 将来減算一時差異等の”等”は、繰越欠損金のこと
 + [プロ簿記：完成品換算 __総量__](https://pro-boki.com/152koubo)
 + [営業レバレッジ == 経営レバレッジ係数](https://tomatsu-keiei.com/registered-management-consultant-operating-leverage/) 財務レバレッジ
++ [プロ簿記：完成品換算 __総量__](https://pro-boki.com/152koubo)
++ [プロ簿記：新株予約権](https://pro-boki.com/warrant1)
++ [プロ簿記：自己株式](https://pro-boki.com/netassets)
 
 ## CMC関連
 
@@ -179,7 +182,7 @@
   + 法定福利費：健康保険、年金費用
   + ![画像](https://inuboki.com/wp/wp-content/uploads/2021/02/koubo1-6b.jpg)
 + 0x 経費
-  + 直接経費：外注加工費のみ
+  + 直接経費：[外注加工費](https://www.youtube.com/watch?v=I07X-Qy0umY)のみ
     + 無償支給 材料を仕掛に移して、加工費も仕掛に乗せる。  
        __<span style="color: green;">仕掛品 100 ／ 材料 100</span>__  
        __<span style="color: green;">外注加工費 100 ／ 現金 100</span>__  
