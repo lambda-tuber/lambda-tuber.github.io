@@ -333,6 +333,18 @@
 ## 資格合格クレアール
 ### 簿記検定1級_受験対策
 
+#### 161回
++ [商業簿記](https://www.youtube.com/watch?v=wMuvuABGrmg)
++ [会計学](https://www.youtube.com/watch?v=mypIbT64eLE)
+  + [約定日基準、受渡基準、修正受渡基準](https://finance.yahoo.co.jp/money/experts/questions/q1227664832)
+  + リース貸し手
+    + リース取引開始時に売上高と売上原価を計上する。
+    + リース料受け取り時、売上高と売上原価を計上する。
+    + 売上高を計上せずに、利息を各期に分配する。
++ [工業簿記](https://www.youtube.com/watch?v=6MSIMBo3rqo)
++ [原価計算](https://www.youtube.com/watch?v=U-x5xd6Tvx8)
+
+
 #### 159回
 + [商業簿記](https://www.youtube.com/watch?v=wMuvuABGrmg)
 + [会計学 第1問](https://www.youtube.com/watch?v=mypIbT64eLE)
@@ -507,11 +519,16 @@
 + [会計学 第1問](https://www.youtube.com/watch?v=2QfGwovIXNw)
 + [会計学 第2問](https://www.youtube.com/watch?v=R0DovPyCLo0) 税効果会計。法調は、繰延税金の年度差額。
 + [会計学 第3問](https://www.youtube.com/watch?v=TtrrKoH9gS0) 事業分離、共同支配。持分法で考える。
-+ [工業簿記](https://www.youtube.com/watch?v=r4mXXy9kH9A) 個別原価計算。品質原価管理。
++ [工業簿記](https://www.youtube.com/watch?v=r4mXXy9kH9A)  
+個別原価計算。  
+★★材料費の外部／内部材料副費の計算で、購入代価に対する割合から内部副費を算出する箇所で、外部副費を購入代価に含めて計算間違いをした。  
+品質原価管理。  
+★★機械原価の損失は、外部失敗コスト。
 + [原価計算 第1問](https://www.youtube.com/watch?v=1XsJ6GwxFVQ)
   + 連結原価を按分する際、__<span style="color: red;">販管費を控除してはいけない。</span>__ 見積売価で按分。
   + 連産品、副産物、価値移転的計算(原価発生原因主義)、価値回収的計算(負担能力主義)。
-  + 管理会計の差額原価で意思決定。
+  + 管理会計の差額原価で意思決定。  
+  ★★ひっかけ。連結原価はAが増えればBが減り、Bが増えればAが減るので、無関連原価となる。トータルの利益の増減に影響がない。結局、BとB'との比較でよくなる。
 + [原価計算 第2問](https://www.youtube.com/watch?v=70UdsAvlxgY) 経営レバレッジ。安全余裕率。変動費固定費の割合。
 
 #### 146回
@@ -527,7 +544,8 @@
   + 移転前のS社時価(のれん発生)と移転事業時価(資本剰余金発生)に分けて、資本連結する。
 + [工業簿記 第1問](https://www.youtube.com/watch?v=f9Ny70LQw38) 部門別。相互配賦は自身を抜く。連立方程式法
 + [工業簿記 第2問](https://www.youtube.com/watch?v=x6v3IWY7d3w) 部門別の加工費の穴埋め
-+ [原価計算 第1問](https://www.youtube.com/watch?v=O42Fc8oPRtM) 活動基準原価計算
++ [原価計算 第1問](https://www.youtube.com/watch?v=O42Fc8oPRtM) 活動基準原価計算。  
+★★単位と単価の表記を認識間違えた。ABCでは、必ず按分計算があると考えるべき。
 + [原価計算 第2問](https://www.youtube.com/watch?v=lOB8VzL4L14)
 + [原価計算 第3問](https://www.youtube.com/watch?v=BFq6y3Rurf8) チョコ停の件
 
