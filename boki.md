@@ -333,16 +333,24 @@
 ## 資格合格クレアール
 ### 簿記検定1級_受験対策
 
+#### 162回
++ [商業簿記](https://www.youtube.com/watch?v=le0l_eaDJyA)
++ [会計学](https://www.youtube.com/watch?v=JB6FKJMDuHw)
++ [工業簿記](https://www.youtube.com/watch?v=eA4g1K6QfYk)
++ [原価計算](https://www.youtube.com/watch?v=1AHDF_Fc7yM)
+
+
+
 #### 161回
-+ [商業簿記](https://www.youtube.com/watch?v=wMuvuABGrmg)
-+ [会計学](https://www.youtube.com/watch?v=mypIbT64eLE)
++ [商業簿記](https://www.youtube.com/watch?v=onz5CWg_Zxg)
++ [会計学](https://www.youtube.com/watch?v=IxmZ98TBwAs)
   + [約定日基準、受渡基準、修正受渡基準](https://finance.yahoo.co.jp/money/experts/questions/q1227664832)
   + リース貸し手
     + リース取引開始時に売上高と売上原価を計上する。
     + リース料受け取り時、売上高と売上原価を計上する。
     + 売上高を計上せずに、利息を各期に分配する。
-+ [工業簿記](https://www.youtube.com/watch?v=6MSIMBo3rqo)
-+ [原価計算](https://www.youtube.com/watch?v=U-x5xd6Tvx8)
++ [工業簿記](https://www.youtube.com/watch?v=zlO1IECb3uI)
++ [原価計算](https://www.youtube.com/watch?v=0KifutWDZSU)
 
 
 #### 159回
@@ -1039,6 +1047,41 @@
 + [2020年合格目標 財務会計論計算 圧縮講義第2回 連結会計（資本連結基礎・成果連結基礎）前半](https://www.youtube.com/watch?v=-X5wXg4ANu4)
 + [2020年合格目標 財務会計論計算 圧縮講義第2回 連結会計（資本連結基礎・成果連結基礎）後半](https://www.youtube.com/watch?v=TtP2ycWvi60)
 + [収益認識に関する会計基準](https://www.youtube.com/watch?v=g7lZ_zt6Wo8)
+  + 契約
+  + 履行義務
+    + [例題1 契約資産](https://youtu.be/g7lZ_zt6Wo8?t=1008)
+    + [保障サービス](https://youtu.be/g7lZ_zt6Wo8?t=1345)
+      + 基本保障　→　引当金費用処理
+      + 追加・延長保障　→　収益認識・履行義務
+      + [例題3 契約負債](https://youtu.be/g7lZ_zt6Wo8?t=1512)
+    + [ポイントサービス(カスタマー・ロイヤリティ・プログラム)](https://youtu.be/g7lZ_zt6Wo8?t=1700)
+      + [例題4](https://youtu.be/g7lZ_zt6Wo8?t=1754)
+    + [本人・代理人](https://youtu.be/g7lZ_zt6Wo8?t=1964)
+      + 本人　→　総額
+      + 代理人(百貨店、楽天など)　→　純額
+      + [例題5](https://youtu.be/g7lZ_zt6Wo8?t=2170)
+    + [カスタマー・ロイヤリティ・プログラム補足](https://youtu.be/g7lZ_zt6Wo8?t=2362)
+  + [取引価格](https://youtu.be/g7lZ_zt6Wo8?t=2494)
+    + 税抜き方式
+    + 変動対価(値引き、リベート、返品)
+    + [リベート](https://youtu.be/g7lZ_zt6Wo8?t=2734)
+    + [返品 例題9](https://youtu.be/g7lZ_zt6Wo8?t=2912)
+      + 返品資産 xx / 返金負債 xx
+        + 返品があった場合　→　返金負債 / 現金、 商品 / 返品資産
+        + 返品がなかった場合　→ 返金負債 / 売上、 売原 / 返品資産
+    + [金利](https://youtu.be/g7lZ_zt6Wo8?t=3049)
+    + [例題10 顧客に支払われる対価(リベート)](https://youtu.be/g7lZ_zt6Wo8?t=3198)
+  + [取引価格の配分](https://youtu.be/g7lZ_zt6Wo8?t=3360)
+    + 独立販売価格で按分する。
+    + [例題11 保障サービスがついた場合](https://youtu.be/g7lZ_zt6Wo8?t=3495)
+    + [遡らない](https://youtu.be/g7lZ_zt6Wo8?t=3571)
+  + [認識](https://youtu.be/g7lZ_zt6Wo8?t=3710)
+    + 一定の期間で充足、一時に充足。
+    + [進捗度が見積れるケース(工事進行基準)](https://youtu.be/g7lZ_zt6Wo8?t=3895)
+    + [原価回収基準](https://youtu.be/g7lZ_zt6Wo8?t=3794)
+    + [例題13 進捗度を出すとき影響のでかい材料費は引く](https://youtu.be/g7lZ_zt6Wo8?t=3980)
+    + 工事契約引当金、なにもかわらない。完成基準がなくなった。
+    + 出荷、着荷、検収。収益認識は、検収時。
 + [包括利益の計算問題を通じて組替調整を理論の側面から完全理解する講座](https://www.youtube.com/watch?v=e3lL3nIdV9A)
 + [個別キャッシュ・フロー計算書完全マスター講義（圧縮講義第10回） 前半](https://www.youtube.com/watch?v=Mt5vh6VdZ70)
 + [個別キャッシュ・フロー計算書完全マスター講義（圧縮講義第10回） 後半](https://www.youtube.com/watch?v=j6BeW26mb_M)
