@@ -23,8 +23,8 @@
 + [プロ簿記：完成品換算 __総量__](https://pro-boki.com/152koubo)
 + [プロ簿記：新株予約権](https://pro-boki.com/warrant1)
 + [プロ簿記：自己株式](https://pro-boki.com/netassets)
-+ ![評価損](https://raw.githubusercontent.com/lambda-tuber/lambda-tuber.github.io/8e4e0e7aada415c1350b7c3207c022d7f3fb6e20/image/bunpai_kanou_gaku.png)
-+ ![遡及適用](https://raw.githubusercontent.com/lambda-tuber/lambda-tuber.github.io/8e4e0e7aada415c1350b7c3207c022d7f3fb6e20/image/bunpai_kanou_gaku.png)
++ ![評価損](https://github.com/lambda-tuber/lambda-tuber.github.io/blob/master/image/hyoukazon.png?raw=true)
++ ![遡及適用](https://github.com/lambda-tuber/lambda-tuber.github.io/blob/master/image/sokyu.png?raw=true)
 ## CMC関連
 
 ### [スマホではじめる日商簿記1級(商業簿記・会計学編)](http://www.kaikei-soft.net/boki/boki1_smartp.html)
