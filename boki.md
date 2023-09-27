@@ -23,7 +23,8 @@
 + [プロ簿記：完成品換算 __総量__](https://pro-boki.com/152koubo)
 + [プロ簿記：新株予約権](https://pro-boki.com/warrant1)
 + [プロ簿記：自己株式](https://pro-boki.com/netassets)
-
++ ![評価損](https://raw.githubusercontent.com/lambda-tuber/lambda-tuber.github.io/8e4e0e7aada415c1350b7c3207c022d7f3fb6e20/image/bunpai_kanou_gaku.png)
++ ![遡及適用](https://raw.githubusercontent.com/lambda-tuber/lambda-tuber.github.io/8e4e0e7aada415c1350b7c3207c022d7f3fb6e20/image/bunpai_kanou_gaku.png)
 ## CMC関連
 
 ### [スマホではじめる日商簿記1級(商業簿記・会計学編)](http://www.kaikei-soft.net/boki/boki1_smartp.html)
@@ -48,7 +49,7 @@
   + [下取りで新車両を購入するケース](https://youtu.be/zb7OSIjLVz8?t=4154)
   + [2級 圧縮記帳](https://www.youtube.com/watch?v=a3WgyKyglPc) 圧縮しないで現金計上、固定資産簿価減額
 + [05 無形固定資産・繰延資産・社債](https://www.youtube.com/watch?v=t2g0itED34Q)
-  + [繰延資産](https://youtu.be/t2g0itED34Q?t=1441) 創業費(5年)、開業費(5年)、株式交付費(3年)、社債発行費、開発費(5年)。原則は費用処理。繰延資産は容認。
+  + [繰延資産](https://youtu.be/t2g0itED34Q?t=1441) 創業費(5年)、開業費(5年)、株式交付費(3年)、社債発行費(償却期間)、開発費(5年)。原則は費用処理。繰延資産は容認。
   + [研究開発費](https://youtu.be/t2g0itED34Q?t=2785) 著しい改良は研究開発費用、通常の改良は無形固定資産(資本的支出)、改修などは修繕費(収益的支出)など。
   + [ソフトウエア償却 ★日商122回](https://youtu.be/t2g0itED34Q?t=3400)
   + [ソフトウエアの無形固定資産の算出 ★日商126回](https://youtu.be/t2g0itED34Q?t=3844)
@@ -332,6 +333,14 @@
 
 ## 資格合格クレアール
 ### 簿記検定1級_受験対策
+
+#### 164回
++ [商業簿記](https://www.youtube.com/watch?v=X-QlrNodl2c)
++ [会計学](https://www.youtube.com/watch?v=Vm_ZBZF_rHs)
++ [工業簿記](https://www.youtube.com/watch?v=r8TEFOCRXDA)
++ [原価計算](https://www.youtube.com/watch?v=wEl-lt7cG9w)
+
+
 
 #### 162回
 + [商業簿記](https://www.youtube.com/watch?v=le0l_eaDJyA)
@@ -770,6 +779,24 @@
 ### 日商簿記２級の後に学んでおきたい１２の知識
 + [再生リスト](https://www.youtube.com/watch?v=rliZxs7GTfY&list=PLNYgnR26-ZnpxZ51D_cGyVC_K5pL5aX3Y)
 ### 全経簿記上級
+
+#### 211回
++ [商業簿記 第1問](https://www.youtube.com/watch?v=CezAMkm1-rQ)
++ [会計学 第1問](https://www.youtube.com/watch?v=IOv7bpk7ldk)
++ [工業簿記 第1問](https://www.youtube.com/watch?v=wO_COxH1M4U)
++ [原価計算 第1問](https://www.youtube.com/watch?v=O2G3_qd_m24)
+
+#### 209回
++ [商業簿記 第1問](https://www.youtube.com/watch?v=9pN0_l-LPp0)
++ [会計学 第1問](https://www.youtube.com/watch?v=8mO0qceRbQM)
++ [工業簿記 第1問](https://www.youtube.com/watch?v=04ER62cThwI)
++ [原価計算 第1問](https://www.youtube.com/watch?v=aA5pefLXeDk)
+
+#### 207回
++ [商業簿記 第1問](https://www.youtube.com/watch?v=U7RHLVmKdQg)
++ [会計学 第1問](https://www.youtube.com/watch?v=-xiAwYUJonI)
++ [工業簿記 第1問](https://www.youtube.com/watch?v=2QU3t4fOK1k)
++ [原価計算 第1問](https://www.youtube.com/watch?v=sGCpV3z268w)
 
 #### 205回
 + [商業簿記 第1問](https://www.youtube.com/watch?v=AprBn-yzoX8)
