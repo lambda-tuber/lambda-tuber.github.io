@@ -25,6 +25,17 @@
 + [プロ簿記：自己株式](https://pro-boki.com/netassets)
 + ![評価損](https://github.com/lambda-tuber/lambda-tuber.github.io/blob/master/image/hyoukazon.png?raw=true)
 + ![遡及適用](https://github.com/lambda-tuber/lambda-tuber.github.io/blob/master/image/sokyu.png?raw=true)
+
+
+## ジョイフルスクール会計部
+
++ [日商1級・全経上級【授業】Part1 原価計算、工業簿記総論](https://www.youtube.com/watch?v=FuO-2mltvB0)
+  + [原価計算の目的](https://www.youtube.com/watch?v=FuO-2mltvB0&t=1235s)  
+　　![JF_01_原価分類.png](https://github.com/lambda-tuber/lambda-tuber.github.io/blob/master/image/JF_01_原価分類.png?raw=true)
+  + [原価/非原価](https://www.youtube.com/watch?v=FuO-2mltvB0&t=3098s)  
+　　![JF_02_消給目正.pngg](https://github.com/lambda-tuber/lambda-tuber.github.io/blob/master/image/JF_02_消給目正.png?raw=true)
+
+
 ## CMC関連
 
 ### [スマホではじめる日商簿記1級(商業簿記・会計学編)](http://www.kaikei-soft.net/boki/boki1_smartp.html)
